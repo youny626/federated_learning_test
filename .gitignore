@@ -1,6 +1,7 @@
 .idea
 jinjin_code/
 openfl/
+BigML/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
