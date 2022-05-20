@@ -2,6 +2,9 @@
 jinjin_code/
 openfl/
 BigML/
+.DS_Store
+archive/
+archive.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
