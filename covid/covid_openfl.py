@@ -24,7 +24,7 @@ input_dir = "/home/cc/federated_learning_test/covid/"
 #Setup default workspace, logging, etc.
 fx.init('keras_cnn_mnist', log_level='METRIC', log_file="./covid.log")
 
-num_samples = 1000
+# num_samples = 1000
 train_size = 0.9
 
 # Initial overhead array
@@ -34,7 +34,7 @@ train_df = pd.read_csv(input_dir + "train.txt", sep=" ", header=None)
 train_df.columns = ['patient id', 'filename', 'class', 'data source']
 train_df = train_df.drop(['patient id', 'data source'], axis=1)
 
-train_df = train_df.sample(n=num_samples, random_state=0)
+# train_df = train_df.sample(n=num_samples, random_state=0)
 
 test_df = pd.read_csv(input_dir + "test.txt", sep=" ", header=None)
 test_df.columns = ['id', 'filename', 'class', 'data source']
@@ -53,8 +53,8 @@ print(f"Negative and positive values of test: {test_df['class'].value_counts()}"
 train_data = list()
 train_label = list()
 
-valid_data = list()
-valid_label = list()
+# valid_data = list()
+# valid_label = list()
 
 test_data = list()
 test_label = list()
@@ -81,7 +81,7 @@ for _, row in test_df.iterrows():
     else:
         test_label.append(0)
 
-train_data = np.asarray(train_data).reshape(int(num_samples*train_size), 200, 200, 3)
+train_data = np.asarray(train_data).reshape(len(train_df), 200, 200, 3)
 print(train_data.shape)
 
 # valid_data = np.asarray(valid_data).reshape(num_samples-int(num_samples*train_size), 200, 200, 3)

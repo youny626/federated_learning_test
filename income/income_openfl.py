@@ -16,7 +16,7 @@ if os.path.exists(log_file):
 fx.init('torch_cnn_mnist', log_level='METRIC', log_file='./income.log')
 
 train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
-
+# test = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/test.csv")
 
 def preprocess(data):
     # remove space
@@ -39,6 +39,7 @@ def preprocess(data):
 
 
 train = preprocess(train)
+# test = preprocess(test)
 
 X = train.drop("income_>50K", axis=1)
 y = train["income_>50K"]

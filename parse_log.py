@@ -1,9 +1,9 @@
 import datetime
 import time
 
-dataset = "income"
+dataset = "covid"
 
-rounds = 10
+rounds = 5
 
 real_log = []
 
@@ -29,7 +29,7 @@ with open(f"/Users/zhiruzhu/.local/workspace/{dataset}.log", "r") as log:
             if time_offset is None:
                 time_offset = time_in_seconds
 
-            if "aggregator: locally_tuned_model_validation" in line:
+            if "aggregator: aggregated_model_validation" in line:
                 accuracy = split[-2]
 
                 print(time_in_seconds - time_offset, accuracy)
