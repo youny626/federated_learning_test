@@ -124,7 +124,7 @@ def build_model(feature_shape, classes):
         tf.keras.layers.Dense(128, activation='relu'),
         tf.keras.layers.BatchNormalization(),
         tf.keras.layers.Dropout(0.2),
-        tf.keras.layers.Dense(classes, activation='sigmoid') # binary class
+        tf.keras.layers.Dense(1, activation='sigmoid') # binary class
     ])
 
     model.compile(optimizer=keras.optimizers.Adam(learning_rate=0.001),
