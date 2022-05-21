@@ -5,6 +5,7 @@ BigML/
 .DS_Store
 archive/
 archive.zip
+kaggle.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

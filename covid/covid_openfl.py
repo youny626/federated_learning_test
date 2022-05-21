@@ -15,11 +15,11 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import openfl.native as fx
 from openfl.federated import FederatedModel,FederatedDataSet
 
-log_file = "/Users/zhiruzhu/.local/workspace/covid.log"
+log_file = "/home/cc/.local/workspace/covid.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
-input_dir = "/Users/zhiruzhu/Desktop/data_station/fl_test/covid/archive/"
+input_dir = "/home/cc/federated_learning_test/covid/"
 
 #Setup default workspace, logging, etc.
 fx.init('keras_cnn_mnist', log_level='METRIC', log_file="./covid.log")
