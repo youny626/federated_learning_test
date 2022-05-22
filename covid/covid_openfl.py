@@ -15,14 +15,14 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import openfl.native as fx
 from openfl.federated import FederatedModel,FederatedDataSet
 
-log_file = "/home/cc/.local/workspace/covid.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/covid.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
-input_dir = "/home/cc/federated_learning_test/covid/"
+input_dir = "/home/zhiru_uchicago_edu/federated_learning_test/covid/"
 
 #Setup default workspace, logging, etc.
-fx.init('keras_cnn_mnist', log_level='METRIC', log_file="./covid.log")
+fx.init('keras_cnn_mnist', log_level='METRIC', log_file="./logs/covid.log")
 
 # num_samples = 1000
 train_size = 0.9
@@ -152,7 +152,7 @@ for i, model in enumerate(collaborator_models):
 # Run experiment, return trained FederatedModel
 final_fl_model = fx.run_experiment(collaborators,
                                    override_config={
-        'aggregator.settings.rounds_to_train': 30,
+        'aggregator.settings.rounds_to_train': 100,
         # 'aggregator.settings.log_metric_callback': write_metric_x,
         # "aggregator.settings.write_logs": True,
     }

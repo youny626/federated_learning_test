@@ -9,11 +9,11 @@ import torch
 import torch.nn.functional as F
 from sklearn.model_selection import train_test_split
 
-log_file = "/Users/zhiruzhu/.local/workspace/income.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/income.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
-fx.init('torch_cnn_mnist', log_level='METRIC', log_file='./income.log')
+fx.init('torch_cnn_mnist', log_level='METRIC', log_file='./logs/income.log')
 
 train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
 # test = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/test.csv")

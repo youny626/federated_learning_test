@@ -11,12 +11,12 @@ import torchvision.transforms as transforms
 import openfl.native as fx
 from openfl.federated import FederatedModel,FederatedDataSet
 
-log_file = "/Users/zhiruzhu/.local/workspace/cifar.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/cifar.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
 #Setup default workspace, logging, etc.
-fx.init('torch_cnn_mnist', log_level='METRIC', log_file="./cifar.log")
+fx.init('torch_cnn_mnist', log_level='METRIC', log_file="./logs/cifar.log")
 
 transform = transforms.Compose(
     [transforms.ToTensor(),
