@@ -11,7 +11,7 @@ import torchvision.transforms as transforms
 import openfl.native as fx
 from openfl.federated import FederatedModel,FederatedDataSet
 
-log_file = "/home/zhiru_uchicago_edu/.local/workspace/cifar.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/cifar.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 

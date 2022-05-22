@@ -15,7 +15,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import openfl.native as fx
 from openfl.federated import FederatedModel,FederatedDataSet
 
-log_file = "/home/zhiru_uchicago_edu/.local/workspace/covid.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/covid.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 

@@ -9,7 +9,7 @@ import torch
 import torch.nn.functional as F
 from sklearn.model_selection import train_test_split
 
-log_file = "/home/zhiru_uchicago_edu/.local/workspace/income.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
