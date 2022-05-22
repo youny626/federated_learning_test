@@ -152,7 +152,7 @@ for i, model in enumerate(collaborator_models):
 # Run experiment, return trained FederatedModel
 final_fl_model = fx.run_experiment(collaborators,
                                    override_config={
-        'aggregator.settings.rounds_to_train': 5,
+        'aggregator.settings.rounds_to_train': 30,
         # 'aggregator.settings.log_metric_callback': write_metric_x,
         # "aggregator.settings.write_logs": True,
     }

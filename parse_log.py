@@ -1,9 +1,9 @@
 import datetime
 import time
 
-dataset = "covid"
+dataset = "cifar"
 
-rounds = 5
+rounds = 10
 
 real_log = []
 
