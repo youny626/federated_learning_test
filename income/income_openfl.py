@@ -10,12 +10,15 @@ import torch.nn.functional as F
 from sklearn.model_selection import train_test_split
 
 log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income.log"
+# log_file = "~/.local/workspace/logs/income.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
 fx.init('torch_cnn_mnist', log_level='METRIC', log_file='./logs/income.log')
 
-train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
+# train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
+train = pd.read_csv("/home/zhiru_uchicago_edu/federated_learning_test/income/train.csv")
+
 # test = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/test.csv")
 
 def preprocess(data):

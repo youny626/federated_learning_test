@@ -1,15 +1,15 @@
 import datetime
 import time
 
-dataset = "cifar"
+dataset = "income"
 
-rounds = 10
+rounds = 300
 
 real_log = []
 
 print("time, accuracy")
 
-with open(f"/Users/zhiruzhu/.local/workspace/{dataset}.log", "r") as log:
+with open(f"/Users/zhiruzhu/.local/workspace/logs/{dataset}.log", "r") as log:
 
     lines = log.readlines()
 
