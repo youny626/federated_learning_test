@@ -1,0 +1,960 @@
+2022-05-24 03:49:18,513 METRIC Round 0, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.500000 collaborator.py:415
+2022-05-24 03:49:18,522 METRIC Round 0, collaborator 0 aggregated_model_validation result accuracy:	0.500000 aggregator.py:523
+2022-05-24 03:51:01,880 METRIC Round 0, collaborator 0 is sending metric for task train: loss	0.384137 collaborator.py:415
+2022-05-24 03:51:01,885 METRIC Round 0, collaborator 0 train result loss:	0.384137 aggregator.py:523
+2022-05-24 03:51:04,463 METRIC Round 0, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 03:51:04,468 METRIC Round 0, collaborator 0 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 03:51:09,024 METRIC Round 0, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 03:51:09,028 METRIC Round 0, collaborator 1 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 03:52:50,723 METRIC Round 0, collaborator 1 is sending metric for task train: loss	0.366856 collaborator.py:415
+2022-05-24 03:52:50,727 METRIC Round 0, collaborator 1 train result loss:	0.366856 aggregator.py:523
+2022-05-24 03:52:53,071 METRIC Round 0, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 03:52:53,075 METRIC Round 0, collaborator 1 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 03:52:57,512 METRIC Round 0, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 03:52:57,516 METRIC Round 0, collaborator 2 aggregated_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 03:54:39,958 METRIC Round 0, collaborator 2 is sending metric for task train: loss	0.377091 collaborator.py:415
+2022-05-24 03:54:39,963 METRIC Round 0, collaborator 2 train result loss:	0.377091 aggregator.py:523
+2022-05-24 03:54:42,291 METRIC Round 0, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 03:54:42,295 METRIC Round 0, collaborator 2 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 03:54:46,898 METRIC Round 0, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.420000 collaborator.py:415
+2022-05-24 03:54:46,902 METRIC Round 0, collaborator 3 aggregated_model_validation result accuracy:	0.420000 aggregator.py:523
+2022-05-24 03:56:27,503 METRIC Round 0, collaborator 3 is sending metric for task train: loss	0.385780 collaborator.py:415
+2022-05-24 03:56:27,508 METRIC Round 0, collaborator 3 train result loss:	0.385780 aggregator.py:523
+2022-05-24 03:56:29,717 METRIC Round 0, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 03:56:29,721 METRIC Round 0, collaborator 3 locally_tuned_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 03:56:33,957 METRIC Round 0, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.480000 collaborator.py:415
+2022-05-24 03:56:33,961 METRIC Round 0, collaborator 4 aggregated_model_validation result accuracy:	0.480000 aggregator.py:523
+2022-05-24 03:58:15,550 METRIC Round 0, collaborator 4 is sending metric for task train: loss	0.376545 collaborator.py:415
+2022-05-24 03:58:15,555 METRIC Round 0, collaborator 4 train result loss:	0.376545 aggregator.py:523
+2022-05-24 03:58:18,134 METRIC Round 0, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 03:58:18,139 METRIC Round 0, collaborator 4 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 03:58:22,539 METRIC Round 0, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 03:58:22,543 METRIC Round 0, collaborator 5 aggregated_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 04:00:02,612 METRIC Round 0, collaborator 5 is sending metric for task train: loss	0.391799 collaborator.py:415
+2022-05-24 04:00:02,617 METRIC Round 0, collaborator 5 train result loss:	0.391799 aggregator.py:523
+2022-05-24 04:00:04,975 METRIC Round 0, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 04:00:04,979 METRIC Round 0, collaborator 5 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 04:00:09,734 METRIC Round 0, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.520000 collaborator.py:415
+2022-05-24 04:00:09,739 METRIC Round 0, collaborator 6 aggregated_model_validation result accuracy:	0.520000 aggregator.py:523
+2022-05-24 04:01:53,131 METRIC Round 0, collaborator 6 is sending metric for task train: loss	0.379604 collaborator.py:415
+2022-05-24 04:01:53,137 METRIC Round 0, collaborator 6 train result loss:	0.379604 aggregator.py:523
+2022-05-24 04:01:55,535 METRIC Round 0, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:01:55,540 METRIC Round 0, collaborator 6 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:02:01,003 METRIC Round 0, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.540000 collaborator.py:415
+2022-05-24 04:02:01,008 METRIC Round 0, collaborator 7 aggregated_model_validation result accuracy:	0.540000 aggregator.py:523
+2022-05-24 04:03:44,411 METRIC Round 0, collaborator 7 is sending metric for task train: loss	0.383549 collaborator.py:415
+2022-05-24 04:03:44,416 METRIC Round 0, collaborator 7 train result loss:	0.383549 aggregator.py:523
+2022-05-24 04:03:46,696 METRIC Round 0, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 04:03:46,700 METRIC Round 0, collaborator 7 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 04:03:46,726 METRIC Round 0, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.650000 aggregator.py:805
+2022-05-24 04:03:46,753 METRIC Round 0, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.530000 aggregator.py:805
+2022-05-24 04:03:46,757 METRIC Round 0: saved the best model with score 0.530000 aggregator.py:821
+2022-05-24 04:03:47,711 METRIC Round 0, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.380670 aggregator.py:805
+2022-05-24 04:04:03,980 METRIC Round 1, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 04:04:03,985 METRIC Round 1, collaborator 0 aggregated_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 04:05:44,928 METRIC Round 1, collaborator 0 is sending metric for task train: loss	0.306933 collaborator.py:415
+2022-05-24 04:05:44,933 METRIC Round 1, collaborator 0 train result loss:	0.306933 aggregator.py:523
+2022-05-24 04:05:47,571 METRIC Round 1, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 04:05:47,576 METRIC Round 1, collaborator 0 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 04:05:51,220 METRIC Round 1, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 04:05:51,224 METRIC Round 1, collaborator 1 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 04:07:30,174 METRIC Round 1, collaborator 1 is sending metric for task train: loss	0.313742 collaborator.py:415
+2022-05-24 04:07:30,179 METRIC Round 1, collaborator 1 train result loss:	0.313742 aggregator.py:523
+2022-05-24 04:07:32,626 METRIC Round 1, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 04:07:32,630 METRIC Round 1, collaborator 1 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 04:07:36,860 METRIC Round 1, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:07:36,865 METRIC Round 1, collaborator 2 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:09:16,139 METRIC Round 1, collaborator 2 is sending metric for task train: loss	0.318262 collaborator.py:415
+2022-05-24 04:09:16,145 METRIC Round 1, collaborator 2 train result loss:	0.318262 aggregator.py:523
+2022-05-24 04:09:18,814 METRIC Round 1, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 04:09:18,819 METRIC Round 1, collaborator 2 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 04:09:22,727 METRIC Round 1, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.500000 collaborator.py:415
+2022-05-24 04:09:22,732 METRIC Round 1, collaborator 3 aggregated_model_validation result accuracy:	0.500000 aggregator.py:523
+2022-05-24 04:11:03,029 METRIC Round 1, collaborator 3 is sending metric for task train: loss	0.316894 collaborator.py:415
+2022-05-24 04:11:03,033 METRIC Round 1, collaborator 3 train result loss:	0.316894 aggregator.py:523
+2022-05-24 04:11:05,928 METRIC Round 1, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 04:11:05,932 METRIC Round 1, collaborator 3 locally_tuned_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 04:11:10,039 METRIC Round 1, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:11:10,044 METRIC Round 1, collaborator 4 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:12:49,268 METRIC Round 1, collaborator 4 is sending metric for task train: loss	0.314967 collaborator.py:415
+2022-05-24 04:12:49,274 METRIC Round 1, collaborator 4 train result loss:	0.314967 aggregator.py:523
+2022-05-24 04:12:51,961 METRIC Round 1, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 04:12:51,965 METRIC Round 1, collaborator 4 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 04:12:55,729 METRIC Round 1, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 04:12:55,734 METRIC Round 1, collaborator 5 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 04:14:33,767 METRIC Round 1, collaborator 5 is sending metric for task train: loss	0.312782 collaborator.py:415
+2022-05-24 04:14:33,772 METRIC Round 1, collaborator 5 train result loss:	0.312782 aggregator.py:523
+2022-05-24 04:14:36,505 METRIC Round 1, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:14:36,509 METRIC Round 1, collaborator 5 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:14:40,464 METRIC Round 1, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:14:40,470 METRIC Round 1, collaborator 6 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:16:19,660 METRIC Round 1, collaborator 6 is sending metric for task train: loss	0.325874 collaborator.py:415
+2022-05-24 04:16:19,665 METRIC Round 1, collaborator 6 train result loss:	0.325874 aggregator.py:523
+2022-05-24 04:16:22,756 METRIC Round 1, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 04:16:22,761 METRIC Round 1, collaborator 6 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 04:16:27,018 METRIC Round 1, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.580000 collaborator.py:415
+2022-05-24 04:16:27,022 METRIC Round 1, collaborator 7 aggregated_model_validation result accuracy:	0.580000 aggregator.py:523
+2022-05-24 04:18:07,782 METRIC Round 1, collaborator 7 is sending metric for task train: loss	0.328807 collaborator.py:415
+2022-05-24 04:18:07,787 METRIC Round 1, collaborator 7 train result loss:	0.328807 aggregator.py:523
+2022-05-24 04:18:10,229 METRIC Round 1, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:18:10,234 METRIC Round 1, collaborator 7 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:18:10,278 METRIC Round 1, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.637500 aggregator.py:805
+2022-05-24 04:18:10,322 METRIC Round 1, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.612500 aggregator.py:805
+2022-05-24 04:18:10,326 METRIC Round 1: saved the best model with score 0.612500 aggregator.py:821
+2022-05-24 04:18:12,154 METRIC Round 1, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.317282 aggregator.py:805
+2022-05-24 04:18:37,716 METRIC Round 2, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:18:37,721 METRIC Round 2, collaborator 0 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:20:14,300 METRIC Round 2, collaborator 0 is sending metric for task train: loss	0.290235 collaborator.py:415
+2022-05-24 04:20:14,305 METRIC Round 2, collaborator 0 train result loss:	0.290235 aggregator.py:523
+2022-05-24 04:20:17,106 METRIC Round 2, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:20:17,110 METRIC Round 2, collaborator 0 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:20:20,951 METRIC Round 2, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:20:20,956 METRIC Round 2, collaborator 1 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:21:55,703 METRIC Round 2, collaborator 1 is sending metric for task train: loss	0.278823 collaborator.py:415
+2022-05-24 04:21:55,708 METRIC Round 2, collaborator 1 train result loss:	0.278823 aggregator.py:523
+2022-05-24 04:21:58,287 METRIC Round 2, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 04:21:58,291 METRIC Round 2, collaborator 1 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 04:22:02,243 METRIC Round 2, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 04:22:02,248 METRIC Round 2, collaborator 2 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 04:23:38,263 METRIC Round 2, collaborator 2 is sending metric for task train: loss	0.285687 collaborator.py:415
+2022-05-24 04:23:38,268 METRIC Round 2, collaborator 2 train result loss:	0.285687 aggregator.py:523
+2022-05-24 04:23:40,727 METRIC Round 2, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:23:40,731 METRIC Round 2, collaborator 2 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:23:44,567 METRIC Round 2, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.520000 collaborator.py:415
+2022-05-24 04:23:44,571 METRIC Round 2, collaborator 3 aggregated_model_validation result accuracy:	0.520000 aggregator.py:523
+2022-05-24 04:25:20,656 METRIC Round 2, collaborator 3 is sending metric for task train: loss	0.289825 collaborator.py:415
+2022-05-24 04:25:20,660 METRIC Round 2, collaborator 3 train result loss:	0.289825 aggregator.py:523
+2022-05-24 04:25:23,289 METRIC Round 2, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 04:25:23,293 METRIC Round 2, collaborator 3 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 04:25:27,894 METRIC Round 2, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 04:25:27,898 METRIC Round 2, collaborator 4 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 04:27:04,389 METRIC Round 2, collaborator 4 is sending metric for task train: loss	0.280130 collaborator.py:415
+2022-05-24 04:27:04,394 METRIC Round 2, collaborator 4 train result loss:	0.280130 aggregator.py:523
+2022-05-24 04:27:06,996 METRIC Round 2, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.580000 collaborator.py:415
+2022-05-24 04:27:07,001 METRIC Round 2, collaborator 4 locally_tuned_model_validation result accuracy:	0.580000 aggregator.py:523
+2022-05-24 04:27:11,211 METRIC Round 2, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 04:27:11,215 METRIC Round 2, collaborator 5 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 04:28:48,971 METRIC Round 2, collaborator 5 is sending metric for task train: loss	0.288779 collaborator.py:415
+2022-05-24 04:28:48,976 METRIC Round 2, collaborator 5 train result loss:	0.288779 aggregator.py:523
+2022-05-24 04:28:51,515 METRIC Round 2, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 04:28:51,520 METRIC Round 2, collaborator 5 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 04:28:55,470 METRIC Round 2, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:28:55,475 METRIC Round 2, collaborator 6 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:30:31,476 METRIC Round 2, collaborator 6 is sending metric for task train: loss	0.287157 collaborator.py:415
+2022-05-24 04:30:31,481 METRIC Round 2, collaborator 6 train result loss:	0.287157 aggregator.py:523
+2022-05-24 04:30:34,379 METRIC Round 2, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:30:34,383 METRIC Round 2, collaborator 6 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:30:38,634 METRIC Round 2, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:30:38,638 METRIC Round 2, collaborator 7 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:32:13,925 METRIC Round 2, collaborator 7 is sending metric for task train: loss	0.316287 collaborator.py:415
+2022-05-24 04:32:13,930 METRIC Round 2, collaborator 7 train result loss:	0.316287 aggregator.py:523
+2022-05-24 04:32:16,552 METRIC Round 2, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 04:32:16,556 METRIC Round 2, collaborator 7 locally_tuned_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 04:32:16,607 METRIC Round 2, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.715000 aggregator.py:805
+2022-05-24 04:32:16,658 METRIC Round 2, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.655000 aggregator.py:805
+2022-05-24 04:32:16,662 METRIC Round 2: saved the best model with score 0.655000 aggregator.py:821
+2022-05-24 04:32:18,687 METRIC Round 2, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.289615 aggregator.py:805
+2022-05-24 04:32:43,062 METRIC Round 3, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:32:43,066 METRIC Round 3, collaborator 0 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:34:21,731 METRIC Round 3, collaborator 0 is sending metric for task train: loss	0.270702 collaborator.py:415
+2022-05-24 04:34:21,736 METRIC Round 3, collaborator 0 train result loss:	0.270702 aggregator.py:523
+2022-05-24 04:34:24,615 METRIC Round 3, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:34:24,620 METRIC Round 3, collaborator 0 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:34:28,640 METRIC Round 3, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 04:34:28,644 METRIC Round 3, collaborator 1 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 04:36:06,871 METRIC Round 3, collaborator 1 is sending metric for task train: loss	0.266092 collaborator.py:415
+2022-05-24 04:36:06,876 METRIC Round 3, collaborator 1 train result loss:	0.266092 aggregator.py:523
+2022-05-24 04:36:09,477 METRIC Round 3, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 04:36:09,481 METRIC Round 3, collaborator 1 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 04:36:13,508 METRIC Round 3, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 04:36:13,513 METRIC Round 3, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 04:37:53,470 METRIC Round 3, collaborator 2 is sending metric for task train: loss	0.261758 collaborator.py:415
+2022-05-24 04:37:53,476 METRIC Round 3, collaborator 2 train result loss:	0.261758 aggregator.py:523
+2022-05-24 04:37:56,139 METRIC Round 3, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 04:37:56,143 METRIC Round 3, collaborator 2 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 04:38:00,186 METRIC Round 3, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 04:38:00,190 METRIC Round 3, collaborator 3 aggregated_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 04:39:39,002 METRIC Round 3, collaborator 3 is sending metric for task train: loss	0.285194 collaborator.py:415
+2022-05-24 04:39:39,007 METRIC Round 3, collaborator 3 train result loss:	0.285194 aggregator.py:523
+2022-05-24 04:39:41,838 METRIC Round 3, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 04:39:41,843 METRIC Round 3, collaborator 3 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 04:39:46,284 METRIC Round 3, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:39:46,289 METRIC Round 3, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:41:25,767 METRIC Round 3, collaborator 4 is sending metric for task train: loss	0.265740 collaborator.py:415
+2022-05-24 04:41:25,772 METRIC Round 3, collaborator 4 train result loss:	0.265740 aggregator.py:523
+2022-05-24 04:41:28,510 METRIC Round 3, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 04:41:28,515 METRIC Round 3, collaborator 4 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 04:41:33,146 METRIC Round 3, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:41:33,151 METRIC Round 3, collaborator 5 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:43:11,567 METRIC Round 3, collaborator 5 is sending metric for task train: loss	0.282470 collaborator.py:415
+2022-05-24 04:43:11,572 METRIC Round 3, collaborator 5 train result loss:	0.282470 aggregator.py:523
+2022-05-24 04:43:14,181 METRIC Round 3, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 04:43:14,186 METRIC Round 3, collaborator 5 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 04:43:18,332 METRIC Round 3, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 04:43:18,337 METRIC Round 3, collaborator 6 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 04:44:55,851 METRIC Round 3, collaborator 6 is sending metric for task train: loss	0.272292 collaborator.py:415
+2022-05-24 04:44:55,856 METRIC Round 3, collaborator 6 train result loss:	0.272292 aggregator.py:523
+2022-05-24 04:44:58,674 METRIC Round 3, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:44:58,678 METRIC Round 3, collaborator 6 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:45:03,391 METRIC Round 3, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 04:45:03,396 METRIC Round 3, collaborator 7 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 04:46:39,930 METRIC Round 3, collaborator 7 is sending metric for task train: loss	0.290208 collaborator.py:415
+2022-05-24 04:46:39,935 METRIC Round 3, collaborator 7 train result loss:	0.290208 aggregator.py:523
+2022-05-24 04:46:42,543 METRIC Round 3, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:46:42,548 METRIC Round 3, collaborator 7 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:46:42,593 METRIC Round 3, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.665000 aggregator.py:805
+2022-05-24 04:46:42,640 METRIC Round 3, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.695000 aggregator.py:805
+2022-05-24 04:46:42,643 METRIC Round 3: saved the best model with score 0.695000 aggregator.py:821
+2022-05-24 04:46:44,537 METRIC Round 3, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.274307 aggregator.py:805
+2022-05-24 04:47:09,823 METRIC Round 4, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 04:47:09,828 METRIC Round 4, collaborator 0 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 04:48:47,239 METRIC Round 4, collaborator 0 is sending metric for task train: loss	0.261289 collaborator.py:415
+2022-05-24 04:48:47,244 METRIC Round 4, collaborator 0 train result loss:	0.261289 aggregator.py:523
+2022-05-24 04:48:50,039 METRIC Round 4, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 04:48:50,043 METRIC Round 4, collaborator 0 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 04:48:54,491 METRIC Round 4, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 04:48:54,496 METRIC Round 4, collaborator 1 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 04:50:32,779 METRIC Round 4, collaborator 1 is sending metric for task train: loss	0.260456 collaborator.py:415
+2022-05-24 04:50:32,784 METRIC Round 4, collaborator 1 train result loss:	0.260456 aggregator.py:523
+2022-05-24 04:50:35,542 METRIC Round 4, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:50:35,547 METRIC Round 4, collaborator 1 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:50:40,146 METRIC Round 4, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 04:50:40,150 METRIC Round 4, collaborator 2 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 04:52:19,956 METRIC Round 4, collaborator 2 is sending metric for task train: loss	0.258466 collaborator.py:415
+2022-05-24 04:52:19,962 METRIC Round 4, collaborator 2 train result loss:	0.258466 aggregator.py:523
+2022-05-24 04:52:22,895 METRIC Round 4, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 04:52:22,900 METRIC Round 4, collaborator 2 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 04:52:27,501 METRIC Round 4, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.540000 collaborator.py:415
+2022-05-24 04:52:27,506 METRIC Round 4, collaborator 3 aggregated_model_validation result accuracy:	0.540000 aggregator.py:523
+2022-05-24 04:54:06,603 METRIC Round 4, collaborator 3 is sending metric for task train: loss	0.266964 collaborator.py:415
+2022-05-24 04:54:06,609 METRIC Round 4, collaborator 3 train result loss:	0.266964 aggregator.py:523
+2022-05-24 04:54:09,396 METRIC Round 4, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 04:54:09,401 METRIC Round 4, collaborator 3 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 04:54:13,966 METRIC Round 4, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 04:54:13,971 METRIC Round 4, collaborator 4 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 04:55:53,628 METRIC Round 4, collaborator 4 is sending metric for task train: loss	0.255130 collaborator.py:415
+2022-05-24 04:55:53,633 METRIC Round 4, collaborator 4 train result loss:	0.255130 aggregator.py:523
+2022-05-24 04:55:56,345 METRIC Round 4, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 04:55:56,349 METRIC Round 4, collaborator 4 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 04:56:00,729 METRIC Round 4, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 04:56:00,733 METRIC Round 4, collaborator 5 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 04:57:40,694 METRIC Round 4, collaborator 5 is sending metric for task train: loss	0.265538 collaborator.py:415
+2022-05-24 04:57:40,699 METRIC Round 4, collaborator 5 train result loss:	0.265538 aggregator.py:523
+2022-05-24 04:57:43,464 METRIC Round 4, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 04:57:43,468 METRIC Round 4, collaborator 5 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 04:57:47,832 METRIC Round 4, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 04:57:47,836 METRIC Round 4, collaborator 6 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 04:59:26,486 METRIC Round 4, collaborator 6 is sending metric for task train: loss	0.258289 collaborator.py:415
+2022-05-24 04:59:26,491 METRIC Round 4, collaborator 6 train result loss:	0.258289 aggregator.py:523
+2022-05-24 04:59:29,436 METRIC Round 4, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:59:29,441 METRIC Round 4, collaborator 6 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 04:59:35,170 METRIC Round 4, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 04:59:35,175 METRIC Round 4, collaborator 7 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 05:01:12,739 METRIC Round 4, collaborator 7 is sending metric for task train: loss	0.277717 collaborator.py:415
+2022-05-24 05:01:12,744 METRIC Round 4, collaborator 7 train result loss:	0.277717 aggregator.py:523
+2022-05-24 05:01:15,736 METRIC Round 4, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 05:01:15,741 METRIC Round 4, collaborator 7 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 05:01:15,792 METRIC Round 4, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.682500 aggregator.py:805
+2022-05-24 05:01:15,847 METRIC Round 4, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.685000 aggregator.py:805
+2022-05-24 05:01:15,902 METRIC Round 4, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.262981 aggregator.py:805
+2022-05-24 05:01:40,688 METRIC Round 5, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 05:01:40,692 METRIC Round 5, collaborator 0 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 05:03:19,563 METRIC Round 5, collaborator 0 is sending metric for task train: loss	0.243323 collaborator.py:415
+2022-05-24 05:03:19,568 METRIC Round 5, collaborator 0 train result loss:	0.243323 aggregator.py:523
+2022-05-24 05:03:22,889 METRIC Round 5, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:03:22,893 METRIC Round 5, collaborator 0 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:03:27,138 METRIC Round 5, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:03:27,142 METRIC Round 5, collaborator 1 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:05:04,207 METRIC Round 5, collaborator 1 is sending metric for task train: loss	0.250170 collaborator.py:415
+2022-05-24 05:05:04,212 METRIC Round 5, collaborator 1 train result loss:	0.250170 aggregator.py:523
+2022-05-24 05:05:07,778 METRIC Round 5, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 05:05:07,782 METRIC Round 5, collaborator 1 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 05:05:12,486 METRIC Round 5, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:05:12,491 METRIC Round 5, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:06:49,743 METRIC Round 5, collaborator 2 is sending metric for task train: loss	0.248393 collaborator.py:415
+2022-05-24 05:06:49,748 METRIC Round 5, collaborator 2 train result loss:	0.248393 aggregator.py:523
+2022-05-24 05:06:52,527 METRIC Round 5, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 05:06:52,531 METRIC Round 5, collaborator 2 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 05:06:56,853 METRIC Round 5, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 05:06:56,857 METRIC Round 5, collaborator 3 aggregated_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 05:08:35,391 METRIC Round 5, collaborator 3 is sending metric for task train: loss	0.248551 collaborator.py:415
+2022-05-24 05:08:35,397 METRIC Round 5, collaborator 3 train result loss:	0.248551 aggregator.py:523
+2022-05-24 05:08:38,410 METRIC Round 5, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 05:08:38,414 METRIC Round 5, collaborator 3 locally_tuned_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 05:08:43,215 METRIC Round 5, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 05:08:43,220 METRIC Round 5, collaborator 4 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 05:10:22,769 METRIC Round 5, collaborator 4 is sending metric for task train: loss	0.258425 collaborator.py:415
+2022-05-24 05:10:22,774 METRIC Round 5, collaborator 4 train result loss:	0.258425 aggregator.py:523
+2022-05-24 05:10:25,770 METRIC Round 5, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 05:10:25,775 METRIC Round 5, collaborator 4 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 05:10:30,733 METRIC Round 5, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:10:30,738 METRIC Round 5, collaborator 5 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:12:11,356 METRIC Round 5, collaborator 5 is sending metric for task train: loss	0.257668 collaborator.py:415
+2022-05-24 05:12:11,360 METRIC Round 5, collaborator 5 train result loss:	0.257668 aggregator.py:523
+2022-05-24 05:12:14,296 METRIC Round 5, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 05:12:14,300 METRIC Round 5, collaborator 5 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 05:12:18,826 METRIC Round 5, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 05:12:18,831 METRIC Round 5, collaborator 6 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 05:13:59,845 METRIC Round 5, collaborator 6 is sending metric for task train: loss	0.252832 collaborator.py:415
+2022-05-24 05:13:59,851 METRIC Round 5, collaborator 6 train result loss:	0.252832 aggregator.py:523
+2022-05-24 05:14:03,120 METRIC Round 5, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 05:14:03,124 METRIC Round 5, collaborator 6 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 05:14:07,694 METRIC Round 5, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 05:14:07,698 METRIC Round 5, collaborator 7 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 05:15:47,136 METRIC Round 5, collaborator 7 is sending metric for task train: loss	0.253648 collaborator.py:415
+2022-05-24 05:15:47,141 METRIC Round 5, collaborator 7 train result loss:	0.253648 aggregator.py:523
+2022-05-24 05:15:50,251 METRIC Round 5, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:15:50,255 METRIC Round 5, collaborator 7 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:15:50,301 METRIC Round 5, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.707500 aggregator.py:805
+2022-05-24 05:15:50,347 METRIC Round 5, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.690000 aggregator.py:805
+2022-05-24 05:15:50,393 METRIC Round 5, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.251626 aggregator.py:805
+2022-05-24 05:16:14,911 METRIC Round 6, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:16:14,916 METRIC Round 6, collaborator 0 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:17:55,538 METRIC Round 6, collaborator 0 is sending metric for task train: loss	0.239868 collaborator.py:415
+2022-05-24 05:17:55,543 METRIC Round 6, collaborator 0 train result loss:	0.239868 aggregator.py:523
+2022-05-24 05:17:58,495 METRIC Round 6, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 05:17:58,500 METRIC Round 6, collaborator 0 locally_tuned_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 05:18:02,945 METRIC Round 6, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 05:18:02,949 METRIC Round 6, collaborator 1 aggregated_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 05:19:42,003 METRIC Round 6, collaborator 1 is sending metric for task train: loss	0.247065 collaborator.py:415
+2022-05-24 05:19:42,008 METRIC Round 6, collaborator 1 train result loss:	0.247065 aggregator.py:523
+2022-05-24 05:19:45,085 METRIC Round 6, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:19:45,089 METRIC Round 6, collaborator 1 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:19:50,085 METRIC Round 6, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:19:50,089 METRIC Round 6, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:21:29,316 METRIC Round 6, collaborator 2 is sending metric for task train: loss	0.243752 collaborator.py:415
+2022-05-24 05:21:29,321 METRIC Round 6, collaborator 2 train result loss:	0.243752 aggregator.py:523
+2022-05-24 05:21:32,378 METRIC Round 6, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 05:21:32,382 METRIC Round 6, collaborator 2 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 05:21:37,060 METRIC Round 6, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 05:21:37,066 METRIC Round 6, collaborator 3 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 05:23:16,543 METRIC Round 6, collaborator 3 is sending metric for task train: loss	0.253822 collaborator.py:415
+2022-05-24 05:23:16,548 METRIC Round 6, collaborator 3 train result loss:	0.253822 aggregator.py:523
+2022-05-24 05:23:19,744 METRIC Round 6, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 05:23:19,748 METRIC Round 6, collaborator 3 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 05:23:24,819 METRIC Round 6, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 05:23:24,824 METRIC Round 6, collaborator 4 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 05:25:04,998 METRIC Round 6, collaborator 4 is sending metric for task train: loss	0.248953 collaborator.py:415
+2022-05-24 05:25:05,004 METRIC Round 6, collaborator 4 train result loss:	0.248953 aggregator.py:523
+2022-05-24 05:25:08,335 METRIC Round 6, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 05:25:08,340 METRIC Round 6, collaborator 4 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 05:25:13,369 METRIC Round 6, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:25:13,373 METRIC Round 6, collaborator 5 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:26:51,192 METRIC Round 6, collaborator 5 is sending metric for task train: loss	0.259681 collaborator.py:415
+2022-05-24 05:26:51,196 METRIC Round 6, collaborator 5 train result loss:	0.259681 aggregator.py:523
+2022-05-24 05:26:54,144 METRIC Round 6, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 05:26:54,149 METRIC Round 6, collaborator 5 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 05:26:58,855 METRIC Round 6, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:26:58,859 METRIC Round 6, collaborator 6 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:28:35,752 METRIC Round 6, collaborator 6 is sending metric for task train: loss	0.241462 collaborator.py:415
+2022-05-24 05:28:35,757 METRIC Round 6, collaborator 6 train result loss:	0.241462 aggregator.py:523
+2022-05-24 05:28:38,886 METRIC Round 6, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 05:28:38,890 METRIC Round 6, collaborator 6 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 05:28:43,804 METRIC Round 6, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 05:28:43,809 METRIC Round 6, collaborator 7 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 05:30:21,437 METRIC Round 6, collaborator 7 is sending metric for task train: loss	0.252191 collaborator.py:415
+2022-05-24 05:30:21,441 METRIC Round 6, collaborator 7 train result loss:	0.252191 aggregator.py:523
+2022-05-24 05:30:24,422 METRIC Round 6, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 05:30:24,426 METRIC Round 6, collaborator 7 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 05:30:24,472 METRIC Round 6, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.720000 aggregator.py:805
+2022-05-24 05:30:24,518 METRIC Round 6, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.720000 aggregator.py:805
+2022-05-24 05:30:24,521 METRIC Round 6: saved the best model with score 0.720000 aggregator.py:821
+2022-05-24 05:30:26,401 METRIC Round 6, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.248349 aggregator.py:805
+2022-05-24 05:30:51,853 METRIC Round 7, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 05:30:51,857 METRIC Round 7, collaborator 0 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 05:32:28,019 METRIC Round 7, collaborator 0 is sending metric for task train: loss	0.235544 collaborator.py:415
+2022-05-24 05:32:28,024 METRIC Round 7, collaborator 0 train result loss:	0.235544 aggregator.py:523
+2022-05-24 05:32:31,191 METRIC Round 7, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 05:32:31,195 METRIC Round 7, collaborator 0 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 05:32:36,118 METRIC Round 7, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 05:32:36,123 METRIC Round 7, collaborator 1 aggregated_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 05:34:13,039 METRIC Round 7, collaborator 1 is sending metric for task train: loss	0.241920 collaborator.py:415
+2022-05-24 05:34:13,043 METRIC Round 7, collaborator 1 train result loss:	0.241920 aggregator.py:523
+2022-05-24 05:34:16,061 METRIC Round 7, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 05:34:16,066 METRIC Round 7, collaborator 1 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 05:34:20,927 METRIC Round 7, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:34:20,932 METRIC Round 7, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:35:59,161 METRIC Round 7, collaborator 2 is sending metric for task train: loss	0.235918 collaborator.py:415
+2022-05-24 05:35:59,166 METRIC Round 7, collaborator 2 train result loss:	0.235918 aggregator.py:523
+2022-05-24 05:36:02,225 METRIC Round 7, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:36:02,230 METRIC Round 7, collaborator 2 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:36:06,894 METRIC Round 7, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 05:36:06,898 METRIC Round 7, collaborator 3 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 05:37:46,828 METRIC Round 7, collaborator 3 is sending metric for task train: loss	0.239857 collaborator.py:415
+2022-05-24 05:37:46,833 METRIC Round 7, collaborator 3 train result loss:	0.239857 aggregator.py:523
+2022-05-24 05:37:50,087 METRIC Round 7, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 05:37:50,091 METRIC Round 7, collaborator 3 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 05:37:55,713 METRIC Round 7, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:37:55,718 METRIC Round 7, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:39:33,871 METRIC Round 7, collaborator 4 is sending metric for task train: loss	0.235390 collaborator.py:415
+2022-05-24 05:39:33,876 METRIC Round 7, collaborator 4 train result loss:	0.235390 aggregator.py:523
+2022-05-24 05:39:36,920 METRIC Round 7, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 05:39:36,925 METRIC Round 7, collaborator 4 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 05:39:41,659 METRIC Round 7, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:39:41,664 METRIC Round 7, collaborator 5 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:41:18,100 METRIC Round 7, collaborator 5 is sending metric for task train: loss	0.242654 collaborator.py:415
+2022-05-24 05:41:18,105 METRIC Round 7, collaborator 5 train result loss:	0.242654 aggregator.py:523
+2022-05-24 05:41:21,422 METRIC Round 7, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 05:41:21,427 METRIC Round 7, collaborator 5 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 05:41:26,899 METRIC Round 7, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:41:26,903 METRIC Round 7, collaborator 6 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:43:02,702 METRIC Round 7, collaborator 6 is sending metric for task train: loss	0.237713 collaborator.py:415
+2022-05-24 05:43:02,707 METRIC Round 7, collaborator 6 train result loss:	0.237713 aggregator.py:523
+2022-05-24 05:43:06,048 METRIC Round 7, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 05:43:06,052 METRIC Round 7, collaborator 6 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 05:43:11,216 METRIC Round 7, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 05:43:11,220 METRIC Round 7, collaborator 7 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 05:44:47,121 METRIC Round 7, collaborator 7 is sending metric for task train: loss	0.242969 collaborator.py:415
+2022-05-24 05:44:47,126 METRIC Round 7, collaborator 7 train result loss:	0.242969 aggregator.py:523
+2022-05-24 05:44:50,202 METRIC Round 7, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 05:44:50,206 METRIC Round 7, collaborator 7 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 05:44:50,252 METRIC Round 7, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.712500 aggregator.py:805
+2022-05-24 05:44:50,299 METRIC Round 7, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.717500 aggregator.py:805
+2022-05-24 05:44:50,346 METRIC Round 7, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.238995 aggregator.py:805
+2022-05-24 05:45:15,561 METRIC Round 8, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 05:45:15,566 METRIC Round 8, collaborator 0 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 05:46:52,344 METRIC Round 8, collaborator 0 is sending metric for task train: loss	0.237413 collaborator.py:415
+2022-05-24 05:46:52,349 METRIC Round 8, collaborator 0 train result loss:	0.237413 aggregator.py:523
+2022-05-24 05:46:55,822 METRIC Round 8, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 05:46:55,827 METRIC Round 8, collaborator 0 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 05:47:00,956 METRIC Round 8, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 05:47:00,961 METRIC Round 8, collaborator 1 aggregated_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 05:48:40,263 METRIC Round 8, collaborator 1 is sending metric for task train: loss	0.237041 collaborator.py:415
+2022-05-24 05:48:40,268 METRIC Round 8, collaborator 1 train result loss:	0.237041 aggregator.py:523
+2022-05-24 05:48:43,455 METRIC Round 8, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:48:43,460 METRIC Round 8, collaborator 1 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:48:48,220 METRIC Round 8, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 05:48:48,224 METRIC Round 8, collaborator 2 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 05:50:26,521 METRIC Round 8, collaborator 2 is sending metric for task train: loss	0.238870 collaborator.py:415
+2022-05-24 05:50:26,527 METRIC Round 8, collaborator 2 train result loss:	0.238870 aggregator.py:523
+2022-05-24 05:50:30,030 METRIC Round 8, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:50:30,034 METRIC Round 8, collaborator 2 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:50:34,793 METRIC Round 8, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 05:50:34,797 METRIC Round 8, collaborator 3 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 05:52:11,142 METRIC Round 8, collaborator 3 is sending metric for task train: loss	0.240705 collaborator.py:415
+2022-05-24 05:52:11,147 METRIC Round 8, collaborator 3 train result loss:	0.240705 aggregator.py:523
+2022-05-24 05:52:14,502 METRIC Round 8, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 05:52:14,506 METRIC Round 8, collaborator 3 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 05:52:19,755 METRIC Round 8, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:52:19,760 METRIC Round 8, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:53:56,658 METRIC Round 8, collaborator 4 is sending metric for task train: loss	0.230845 collaborator.py:415
+2022-05-24 05:53:56,663 METRIC Round 8, collaborator 4 train result loss:	0.230845 aggregator.py:523
+2022-05-24 05:53:59,826 METRIC Round 8, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 05:53:59,831 METRIC Round 8, collaborator 4 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 05:54:04,742 METRIC Round 8, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:54:04,747 METRIC Round 8, collaborator 5 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:55:41,643 METRIC Round 8, collaborator 5 is sending metric for task train: loss	0.233520 collaborator.py:415
+2022-05-24 05:55:41,648 METRIC Round 8, collaborator 5 train result loss:	0.233520 aggregator.py:523
+2022-05-24 05:55:44,854 METRIC Round 8, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:55:44,858 METRIC Round 8, collaborator 5 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:55:50,406 METRIC Round 8, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 05:55:50,411 METRIC Round 8, collaborator 6 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 05:57:29,586 METRIC Round 8, collaborator 6 is sending metric for task train: loss	0.228015 collaborator.py:415
+2022-05-24 05:57:29,591 METRIC Round 8, collaborator 6 train result loss:	0.228015 aggregator.py:523
+2022-05-24 05:57:32,835 METRIC Round 8, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 05:57:32,840 METRIC Round 8, collaborator 6 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 05:57:37,880 METRIC Round 8, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 05:57:37,884 METRIC Round 8, collaborator 7 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 05:59:17,497 METRIC Round 8, collaborator 7 is sending metric for task train: loss	0.239586 collaborator.py:415
+2022-05-24 05:59:17,502 METRIC Round 8, collaborator 7 train result loss:	0.239586 aggregator.py:523
+2022-05-24 05:59:20,923 METRIC Round 8, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 05:59:20,927 METRIC Round 8, collaborator 7 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 05:59:20,973 METRIC Round 8, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.730000 aggregator.py:805
+2022-05-24 05:59:21,019 METRIC Round 8, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.710000 aggregator.py:805
+2022-05-24 05:59:21,068 METRIC Round 8, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.235749 aggregator.py:805
+2022-05-24 05:59:47,068 METRIC Round 9, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 05:59:47,073 METRIC Round 9, collaborator 0 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:01:27,375 METRIC Round 9, collaborator 0 is sending metric for task train: loss	0.216346 collaborator.py:415
+2022-05-24 06:01:27,379 METRIC Round 9, collaborator 0 train result loss:	0.216346 aggregator.py:523
+2022-05-24 06:01:30,702 METRIC Round 9, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 06:01:30,707 METRIC Round 9, collaborator 0 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 06:01:35,650 METRIC Round 9, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 06:01:35,655 METRIC Round 9, collaborator 1 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 06:03:17,066 METRIC Round 9, collaborator 1 is sending metric for task train: loss	0.222419 collaborator.py:415
+2022-05-24 06:03:17,072 METRIC Round 9, collaborator 1 train result loss:	0.222419 aggregator.py:523
+2022-05-24 06:03:20,805 METRIC Round 9, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 06:03:20,810 METRIC Round 9, collaborator 1 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 06:03:26,018 METRIC Round 9, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:03:26,022 METRIC Round 9, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:05:04,840 METRIC Round 9, collaborator 2 is sending metric for task train: loss	0.227965 collaborator.py:415
+2022-05-24 06:05:04,845 METRIC Round 9, collaborator 2 train result loss:	0.227965 aggregator.py:523
+2022-05-24 06:05:08,416 METRIC Round 9, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:05:08,420 METRIC Round 9, collaborator 2 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:05:13,753 METRIC Round 9, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 06:05:13,758 METRIC Round 9, collaborator 3 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 06:06:51,650 METRIC Round 9, collaborator 3 is sending metric for task train: loss	0.218499 collaborator.py:415
+2022-05-24 06:06:51,655 METRIC Round 9, collaborator 3 train result loss:	0.218499 aggregator.py:523
+2022-05-24 06:06:54,996 METRIC Round 9, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.600000 collaborator.py:415
+2022-05-24 06:06:55,000 METRIC Round 9, collaborator 3 locally_tuned_model_validation result accuracy:	0.600000 aggregator.py:523
+2022-05-24 06:07:00,179 METRIC Round 9, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 06:07:00,184 METRIC Round 9, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 06:08:37,825 METRIC Round 9, collaborator 4 is sending metric for task train: loss	0.236545 collaborator.py:415
+2022-05-24 06:08:37,830 METRIC Round 9, collaborator 4 train result loss:	0.236545 aggregator.py:523
+2022-05-24 06:08:41,482 METRIC Round 9, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 06:08:41,486 METRIC Round 9, collaborator 4 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 06:08:46,847 METRIC Round 9, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:08:46,851 METRIC Round 9, collaborator 5 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:10:24,188 METRIC Round 9, collaborator 5 is sending metric for task train: loss	0.233231 collaborator.py:415
+2022-05-24 06:10:24,193 METRIC Round 9, collaborator 5 train result loss:	0.233231 aggregator.py:523
+2022-05-24 06:10:27,575 METRIC Round 9, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:10:27,580 METRIC Round 9, collaborator 5 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:10:32,686 METRIC Round 9, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:10:32,691 METRIC Round 9, collaborator 6 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:12:11,304 METRIC Round 9, collaborator 6 is sending metric for task train: loss	0.227922 collaborator.py:415
+2022-05-24 06:12:11,310 METRIC Round 9, collaborator 6 train result loss:	0.227922 aggregator.py:523
+2022-05-24 06:12:14,863 METRIC Round 9, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 06:12:14,867 METRIC Round 9, collaborator 6 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 06:12:21,090 METRIC Round 9, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:12:21,095 METRIC Round 9, collaborator 7 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:13:59,353 METRIC Round 9, collaborator 7 is sending metric for task train: loss	0.234987 collaborator.py:415
+2022-05-24 06:13:59,358 METRIC Round 9, collaborator 7 train result loss:	0.234987 aggregator.py:523
+2022-05-24 06:14:02,906 METRIC Round 9, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 06:14:02,911 METRIC Round 9, collaborator 7 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 06:14:02,957 METRIC Round 9, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.710000 aggregator.py:805
+2022-05-24 06:14:03,003 METRIC Round 9, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.750000 aggregator.py:805
+2022-05-24 06:14:03,006 METRIC Round 9: saved the best model with score 0.750000 aggregator.py:821
+2022-05-24 06:14:05,017 METRIC Round 9, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.227239 aggregator.py:805
+2022-05-24 06:14:31,277 METRIC Round 10, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 06:14:31,281 METRIC Round 10, collaborator 0 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 06:16:10,618 METRIC Round 10, collaborator 0 is sending metric for task train: loss	0.220139 collaborator.py:415
+2022-05-24 06:16:10,623 METRIC Round 10, collaborator 0 train result loss:	0.220139 aggregator.py:523
+2022-05-24 06:16:14,408 METRIC Round 10, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 06:16:14,413 METRIC Round 10, collaborator 0 locally_tuned_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 06:16:19,498 METRIC Round 10, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 06:16:19,502 METRIC Round 10, collaborator 1 aggregated_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 06:17:58,276 METRIC Round 10, collaborator 1 is sending metric for task train: loss	0.221478 collaborator.py:415
+2022-05-24 06:17:58,281 METRIC Round 10, collaborator 1 train result loss:	0.221478 aggregator.py:523
+2022-05-24 06:18:01,855 METRIC Round 10, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:18:01,860 METRIC Round 10, collaborator 1 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:18:07,750 METRIC Round 10, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:18:07,754 METRIC Round 10, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:19:47,451 METRIC Round 10, collaborator 2 is sending metric for task train: loss	0.211541 collaborator.py:415
+2022-05-24 06:19:47,455 METRIC Round 10, collaborator 2 train result loss:	0.211541 aggregator.py:523
+2022-05-24 06:19:50,904 METRIC Round 10, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:19:50,909 METRIC Round 10, collaborator 2 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:19:56,230 METRIC Round 10, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 06:19:56,234 METRIC Round 10, collaborator 3 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 06:21:35,620 METRIC Round 10, collaborator 3 is sending metric for task train: loss	0.228453 collaborator.py:415
+2022-05-24 06:21:35,625 METRIC Round 10, collaborator 3 train result loss:	0.228453 aggregator.py:523
+2022-05-24 06:21:39,611 METRIC Round 10, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 06:21:39,616 METRIC Round 10, collaborator 3 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 06:21:44,898 METRIC Round 10, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 06:21:44,903 METRIC Round 10, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 06:23:22,399 METRIC Round 10, collaborator 4 is sending metric for task train: loss	0.225389 collaborator.py:415
+2022-05-24 06:23:22,404 METRIC Round 10, collaborator 4 train result loss:	0.225389 aggregator.py:523
+2022-05-24 06:23:26,015 METRIC Round 10, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.560000 collaborator.py:415
+2022-05-24 06:23:26,020 METRIC Round 10, collaborator 4 locally_tuned_model_validation result accuracy:	0.560000 aggregator.py:523
+2022-05-24 06:23:31,751 METRIC Round 10, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:23:31,756 METRIC Round 10, collaborator 5 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:25:08,660 METRIC Round 10, collaborator 5 is sending metric for task train: loss	0.227494 collaborator.py:415
+2022-05-24 06:25:08,665 METRIC Round 10, collaborator 5 train result loss:	0.227494 aggregator.py:523
+2022-05-24 06:25:12,155 METRIC Round 10, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:25:12,160 METRIC Round 10, collaborator 5 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:25:17,426 METRIC Round 10, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:25:17,430 METRIC Round 10, collaborator 6 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:26:56,640 METRIC Round 10, collaborator 6 is sending metric for task train: loss	0.218461 collaborator.py:415
+2022-05-24 06:26:56,645 METRIC Round 10, collaborator 6 train result loss:	0.218461 aggregator.py:523
+2022-05-24 06:27:00,504 METRIC Round 10, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:27:00,510 METRIC Round 10, collaborator 6 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:27:06,446 METRIC Round 10, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 06:27:06,451 METRIC Round 10, collaborator 7 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 06:28:48,247 METRIC Round 10, collaborator 7 is sending metric for task train: loss	0.228051 collaborator.py:415
+2022-05-24 06:28:48,252 METRIC Round 10, collaborator 7 train result loss:	0.228051 aggregator.py:523
+2022-05-24 06:28:52,124 METRIC Round 10, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:28:52,129 METRIC Round 10, collaborator 7 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:28:52,175 METRIC Round 10, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.747500 aggregator.py:805
+2022-05-24 06:28:52,221 METRIC Round 10, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.722500 aggregator.py:805
+2022-05-24 06:28:52,267 METRIC Round 10, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.222626 aggregator.py:805
+2022-05-24 06:29:20,340 METRIC Round 11, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 06:29:20,344 METRIC Round 11, collaborator 0 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 06:31:02,930 METRIC Round 11, collaborator 0 is sending metric for task train: loss	0.211566 collaborator.py:415
+2022-05-24 06:31:02,935 METRIC Round 11, collaborator 0 train result loss:	0.211566 aggregator.py:523
+2022-05-24 06:31:07,293 METRIC Round 11, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 06:31:07,299 METRIC Round 11, collaborator 0 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 06:31:12,952 METRIC Round 11, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 06:31:12,957 METRIC Round 11, collaborator 1 aggregated_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 06:32:54,989 METRIC Round 11, collaborator 1 is sending metric for task train: loss	0.213999 collaborator.py:415
+2022-05-24 06:32:54,995 METRIC Round 11, collaborator 1 train result loss:	0.213999 aggregator.py:523
+2022-05-24 06:32:58,996 METRIC Round 11, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:32:59,002 METRIC Round 11, collaborator 1 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:33:05,601 METRIC Round 11, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:33:05,607 METRIC Round 11, collaborator 2 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:34:46,173 METRIC Round 11, collaborator 2 is sending metric for task train: loss	0.215051 collaborator.py:415
+2022-05-24 06:34:46,178 METRIC Round 11, collaborator 2 train result loss:	0.215051 aggregator.py:523
+2022-05-24 06:34:50,126 METRIC Round 11, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:34:50,132 METRIC Round 11, collaborator 2 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:34:55,839 METRIC Round 11, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 06:34:55,844 METRIC Round 11, collaborator 3 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 06:36:37,835 METRIC Round 11, collaborator 3 is sending metric for task train: loss	0.218371 collaborator.py:415
+2022-05-24 06:36:37,840 METRIC Round 11, collaborator 3 train result loss:	0.218371 aggregator.py:523
+2022-05-24 06:36:41,406 METRIC Round 11, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.580000 collaborator.py:415
+2022-05-24 06:36:41,410 METRIC Round 11, collaborator 3 locally_tuned_model_validation result accuracy:	0.580000 aggregator.py:523
+2022-05-24 06:36:47,407 METRIC Round 11, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 06:36:47,411 METRIC Round 11, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 06:38:29,715 METRIC Round 11, collaborator 4 is sending metric for task train: loss	0.225960 collaborator.py:415
+2022-05-24 06:38:29,720 METRIC Round 11, collaborator 4 train result loss:	0.225960 aggregator.py:523
+2022-05-24 06:38:33,336 METRIC Round 11, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:38:33,341 METRIC Round 11, collaborator 4 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:38:38,918 METRIC Round 11, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:38:38,923 METRIC Round 11, collaborator 5 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:40:19,872 METRIC Round 11, collaborator 5 is sending metric for task train: loss	0.213063 collaborator.py:415
+2022-05-24 06:40:19,878 METRIC Round 11, collaborator 5 train result loss:	0.213063 aggregator.py:523
+2022-05-24 06:40:24,105 METRIC Round 11, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:40:24,109 METRIC Round 11, collaborator 5 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:40:29,684 METRIC Round 11, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 06:40:29,688 METRIC Round 11, collaborator 6 aggregated_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 06:42:11,432 METRIC Round 11, collaborator 6 is sending metric for task train: loss	0.222342 collaborator.py:415
+2022-05-24 06:42:11,437 METRIC Round 11, collaborator 6 train result loss:	0.222342 aggregator.py:523
+2022-05-24 06:42:15,121 METRIC Round 11, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:42:15,125 METRIC Round 11, collaborator 6 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:42:20,847 METRIC Round 11, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:42:20,852 METRIC Round 11, collaborator 7 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:44:05,579 METRIC Round 11, collaborator 7 is sending metric for task train: loss	0.228516 collaborator.py:415
+2022-05-24 06:44:05,585 METRIC Round 11, collaborator 7 train result loss:	0.228516 aggregator.py:523
+2022-05-24 06:44:09,415 METRIC Round 11, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 06:44:09,419 METRIC Round 11, collaborator 7 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 06:44:09,466 METRIC Round 11, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.735000 aggregator.py:805
+2022-05-24 06:44:09,513 METRIC Round 11, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.775000 aggregator.py:805
+2022-05-24 06:44:09,517 METRIC Round 11: saved the best model with score 0.775000 aggregator.py:821
+2022-05-24 06:44:11,379 METRIC Round 11, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.218608 aggregator.py:805
+2022-05-24 06:44:39,120 METRIC Round 12, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 06:44:39,125 METRIC Round 12, collaborator 0 aggregated_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 06:46:23,025 METRIC Round 12, collaborator 0 is sending metric for task train: loss	0.205706 collaborator.py:415
+2022-05-24 06:46:23,030 METRIC Round 12, collaborator 0 train result loss:	0.205706 aggregator.py:523
+2022-05-24 06:46:27,147 METRIC Round 12, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:46:27,152 METRIC Round 12, collaborator 0 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:46:33,296 METRIC Round 12, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 06:46:33,301 METRIC Round 12, collaborator 1 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 06:48:18,171 METRIC Round 12, collaborator 1 is sending metric for task train: loss	0.213728 collaborator.py:415
+2022-05-24 06:48:18,176 METRIC Round 12, collaborator 1 train result loss:	0.213728 aggregator.py:523
+2022-05-24 06:48:22,339 METRIC Round 12, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 06:48:22,344 METRIC Round 12, collaborator 1 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 06:48:28,894 METRIC Round 12, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:48:28,898 METRIC Round 12, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:50:15,036 METRIC Round 12, collaborator 2 is sending metric for task train: loss	0.203271 collaborator.py:415
+2022-05-24 06:50:15,041 METRIC Round 12, collaborator 2 train result loss:	0.203271 aggregator.py:523
+2022-05-24 06:50:18,844 METRIC Round 12, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 06:50:18,849 METRIC Round 12, collaborator 2 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 06:50:25,239 METRIC Round 12, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 06:50:25,245 METRIC Round 12, collaborator 3 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 06:52:10,385 METRIC Round 12, collaborator 3 is sending metric for task train: loss	0.213344 collaborator.py:415
+2022-05-24 06:52:10,390 METRIC Round 12, collaborator 3 train result loss:	0.213344 aggregator.py:523
+2022-05-24 06:52:14,209 METRIC Round 12, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 06:52:14,213 METRIC Round 12, collaborator 3 locally_tuned_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 06:52:19,861 METRIC Round 12, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 06:52:19,866 METRIC Round 12, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 06:54:04,518 METRIC Round 12, collaborator 4 is sending metric for task train: loss	0.209504 collaborator.py:415
+2022-05-24 06:54:04,523 METRIC Round 12, collaborator 4 train result loss:	0.209504 aggregator.py:523
+2022-05-24 06:54:08,708 METRIC Round 12, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 06:54:08,712 METRIC Round 12, collaborator 4 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 06:54:14,713 METRIC Round 12, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:54:14,717 METRIC Round 12, collaborator 5 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:55:58,717 METRIC Round 12, collaborator 5 is sending metric for task train: loss	0.224532 collaborator.py:415
+2022-05-24 06:55:58,723 METRIC Round 12, collaborator 5 train result loss:	0.224532 aggregator.py:523
+2022-05-24 06:56:02,818 METRIC Round 12, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 06:56:02,824 METRIC Round 12, collaborator 5 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 06:56:09,730 METRIC Round 12, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 06:56:09,735 METRIC Round 12, collaborator 6 aggregated_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 06:57:53,213 METRIC Round 12, collaborator 6 is sending metric for task train: loss	0.206191 collaborator.py:415
+2022-05-24 06:57:53,218 METRIC Round 12, collaborator 6 train result loss:	0.206191 aggregator.py:523
+2022-05-24 06:57:57,087 METRIC Round 12, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 06:57:57,092 METRIC Round 12, collaborator 6 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 06:58:03,080 METRIC Round 12, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 06:58:03,085 METRIC Round 12, collaborator 7 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 06:59:48,612 METRIC Round 12, collaborator 7 is sending metric for task train: loss	0.226979 collaborator.py:415
+2022-05-24 06:59:48,617 METRIC Round 12, collaborator 7 train result loss:	0.226979 aggregator.py:523
+2022-05-24 06:59:52,524 METRIC Round 12, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 06:59:52,528 METRIC Round 12, collaborator 7 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 06:59:52,575 METRIC Round 12, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.742500 aggregator.py:805
+2022-05-24 06:59:52,623 METRIC Round 12, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.755000 aggregator.py:805
+2022-05-24 06:59:52,671 METRIC Round 12, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.212907 aggregator.py:805
+2022-05-24 07:00:20,413 METRIC Round 13, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 07:00:20,417 METRIC Round 13, collaborator 0 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 07:02:07,733 METRIC Round 13, collaborator 0 is sending metric for task train: loss	0.196460 collaborator.py:415
+2022-05-24 07:02:07,738 METRIC Round 13, collaborator 0 train result loss:	0.196460 aggregator.py:523
+2022-05-24 07:02:12,020 METRIC Round 13, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:02:12,024 METRIC Round 13, collaborator 0 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:02:18,673 METRIC Round 13, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 07:02:18,678 METRIC Round 13, collaborator 1 aggregated_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 07:04:05,375 METRIC Round 13, collaborator 1 is sending metric for task train: loss	0.211558 collaborator.py:415
+2022-05-24 07:04:05,381 METRIC Round 13, collaborator 1 train result loss:	0.211558 aggregator.py:523
+2022-05-24 07:04:09,901 METRIC Round 13, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 07:04:09,906 METRIC Round 13, collaborator 1 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 07:04:16,385 METRIC Round 13, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 07:04:16,389 METRIC Round 13, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 07:06:02,885 METRIC Round 13, collaborator 2 is sending metric for task train: loss	0.195091 collaborator.py:415
+2022-05-24 07:06:02,890 METRIC Round 13, collaborator 2 train result loss:	0.195091 aggregator.py:523
+2022-05-24 07:06:07,062 METRIC Round 13, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.900000 collaborator.py:415
+2022-05-24 07:06:07,067 METRIC Round 13, collaborator 2 locally_tuned_model_validation result accuracy:	0.900000 aggregator.py:523
+2022-05-24 07:06:13,038 METRIC Round 13, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.620000 collaborator.py:415
+2022-05-24 07:06:13,043 METRIC Round 13, collaborator 3 aggregated_model_validation result accuracy:	0.620000 aggregator.py:523
+2022-05-24 07:08:00,381 METRIC Round 13, collaborator 3 is sending metric for task train: loss	0.215942 collaborator.py:415
+2022-05-24 07:08:00,386 METRIC Round 13, collaborator 3 train result loss:	0.215942 aggregator.py:523
+2022-05-24 07:08:04,332 METRIC Round 13, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 07:08:04,337 METRIC Round 13, collaborator 3 locally_tuned_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 07:08:10,395 METRIC Round 13, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:08:10,399 METRIC Round 13, collaborator 4 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:09:56,582 METRIC Round 13, collaborator 4 is sending metric for task train: loss	0.215558 collaborator.py:415
+2022-05-24 07:09:56,588 METRIC Round 13, collaborator 4 train result loss:	0.215558 aggregator.py:523
+2022-05-24 07:10:00,690 METRIC Round 13, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 07:10:00,695 METRIC Round 13, collaborator 4 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 07:10:06,587 METRIC Round 13, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:10:06,592 METRIC Round 13, collaborator 5 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:11:53,204 METRIC Round 13, collaborator 5 is sending metric for task train: loss	0.208898 collaborator.py:415
+2022-05-24 07:11:53,209 METRIC Round 13, collaborator 5 train result loss:	0.208898 aggregator.py:523
+2022-05-24 07:11:57,815 METRIC Round 13, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 07:11:57,819 METRIC Round 13, collaborator 5 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 07:12:03,900 METRIC Round 13, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:12:03,905 METRIC Round 13, collaborator 6 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:13:47,597 METRIC Round 13, collaborator 6 is sending metric for task train: loss	0.204431 collaborator.py:415
+2022-05-24 07:13:47,602 METRIC Round 13, collaborator 6 train result loss:	0.204431 aggregator.py:523
+2022-05-24 07:13:51,529 METRIC Round 13, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 07:13:51,533 METRIC Round 13, collaborator 6 locally_tuned_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 07:13:58,062 METRIC Round 13, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 07:13:58,067 METRIC Round 13, collaborator 7 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 07:15:39,777 METRIC Round 13, collaborator 7 is sending metric for task train: loss	0.211047 collaborator.py:415
+2022-05-24 07:15:39,783 METRIC Round 13, collaborator 7 train result loss:	0.211047 aggregator.py:523
+2022-05-24 07:15:43,662 METRIC Round 13, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 07:15:43,666 METRIC Round 13, collaborator 7 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 07:15:43,713 METRIC Round 13, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.747500 aggregator.py:805
+2022-05-24 07:15:43,760 METRIC Round 13, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.732500 aggregator.py:805
+2022-05-24 07:15:43,807 METRIC Round 13, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.207373 aggregator.py:805
+2022-05-24 07:16:12,667 METRIC Round 14, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 07:16:12,671 METRIC Round 14, collaborator 0 aggregated_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 07:17:54,263 METRIC Round 14, collaborator 0 is sending metric for task train: loss	0.209702 collaborator.py:415
+2022-05-24 07:17:54,268 METRIC Round 14, collaborator 0 train result loss:	0.209702 aggregator.py:523
+2022-05-24 07:17:58,604 METRIC Round 14, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 07:17:58,608 METRIC Round 14, collaborator 0 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 07:18:05,167 METRIC Round 14, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 07:18:05,172 METRIC Round 14, collaborator 1 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 07:19:46,317 METRIC Round 14, collaborator 1 is sending metric for task train: loss	0.202512 collaborator.py:415
+2022-05-24 07:19:46,322 METRIC Round 14, collaborator 1 train result loss:	0.202512 aggregator.py:523
+2022-05-24 07:19:50,522 METRIC Round 14, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:19:50,527 METRIC Round 14, collaborator 1 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:19:57,030 METRIC Round 14, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:19:57,034 METRIC Round 14, collaborator 2 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:21:41,123 METRIC Round 14, collaborator 2 is sending metric for task train: loss	0.200464 collaborator.py:415
+2022-05-24 07:21:41,128 METRIC Round 14, collaborator 2 train result loss:	0.200464 aggregator.py:523
+2022-05-24 07:21:45,555 METRIC Round 14, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 07:21:45,560 METRIC Round 14, collaborator 2 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 07:21:52,011 METRIC Round 14, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 07:21:52,017 METRIC Round 14, collaborator 3 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 07:23:36,665 METRIC Round 14, collaborator 3 is sending metric for task train: loss	0.202867 collaborator.py:415
+2022-05-24 07:23:36,670 METRIC Round 14, collaborator 3 train result loss:	0.202867 aggregator.py:523
+2022-05-24 07:23:40,687 METRIC Round 14, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 07:23:40,691 METRIC Round 14, collaborator 3 locally_tuned_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 07:23:47,210 METRIC Round 14, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:23:47,215 METRIC Round 14, collaborator 4 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:25:30,269 METRIC Round 14, collaborator 4 is sending metric for task train: loss	0.216144 collaborator.py:415
+2022-05-24 07:25:30,274 METRIC Round 14, collaborator 4 train result loss:	0.216144 aggregator.py:523
+2022-05-24 07:25:34,258 METRIC Round 14, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 07:25:34,263 METRIC Round 14, collaborator 4 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 07:25:40,295 METRIC Round 14, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:25:40,300 METRIC Round 14, collaborator 5 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:27:24,261 METRIC Round 14, collaborator 5 is sending metric for task train: loss	0.212711 collaborator.py:415
+2022-05-24 07:27:24,266 METRIC Round 14, collaborator 5 train result loss:	0.212711 aggregator.py:523
+2022-05-24 07:27:28,360 METRIC Round 14, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:27:28,365 METRIC Round 14, collaborator 5 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:27:34,574 METRIC Round 14, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 07:27:34,579 METRIC Round 14, collaborator 6 aggregated_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 07:29:15,101 METRIC Round 14, collaborator 6 is sending metric for task train: loss	0.201365 collaborator.py:415
+2022-05-24 07:29:15,106 METRIC Round 14, collaborator 6 train result loss:	0.201365 aggregator.py:523
+2022-05-24 07:29:19,403 METRIC Round 14, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 07:29:19,407 METRIC Round 14, collaborator 6 locally_tuned_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 07:29:25,875 METRIC Round 14, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:29:25,880 METRIC Round 14, collaborator 7 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:31:06,290 METRIC Round 14, collaborator 7 is sending metric for task train: loss	0.216203 collaborator.py:415
+2022-05-24 07:31:06,296 METRIC Round 14, collaborator 7 train result loss:	0.216203 aggregator.py:523
+2022-05-24 07:31:10,294 METRIC Round 14, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:31:10,298 METRIC Round 14, collaborator 7 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:31:10,344 METRIC Round 14, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.790000 aggregator.py:805
+2022-05-24 07:31:10,391 METRIC Round 14, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.780000 aggregator.py:805
+2022-05-24 07:31:10,395 METRIC Round 14: saved the best model with score 0.780000 aggregator.py:821
+2022-05-24 07:31:12,381 METRIC Round 14, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.207746 aggregator.py:805
+2022-05-24 07:31:40,155 METRIC Round 15, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:31:40,159 METRIC Round 15, collaborator 0 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:33:18,971 METRIC Round 15, collaborator 0 is sending metric for task train: loss	0.190730 collaborator.py:415
+2022-05-24 07:33:18,976 METRIC Round 15, collaborator 0 train result loss:	0.190730 aggregator.py:523
+2022-05-24 07:33:23,336 METRIC Round 15, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:33:23,341 METRIC Round 15, collaborator 0 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:33:30,047 METRIC Round 15, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 07:33:30,053 METRIC Round 15, collaborator 1 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 07:35:09,114 METRIC Round 15, collaborator 1 is sending metric for task train: loss	0.199872 collaborator.py:415
+2022-05-24 07:35:09,119 METRIC Round 15, collaborator 1 train result loss:	0.199872 aggregator.py:523
+2022-05-24 07:35:13,390 METRIC Round 15, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:35:13,395 METRIC Round 15, collaborator 1 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:35:20,035 METRIC Round 15, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 07:35:20,040 METRIC Round 15, collaborator 2 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 07:37:00,968 METRIC Round 15, collaborator 2 is sending metric for task train: loss	0.200347 collaborator.py:415
+2022-05-24 07:37:00,973 METRIC Round 15, collaborator 2 train result loss:	0.200347 aggregator.py:523
+2022-05-24 07:37:05,087 METRIC Round 15, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:37:05,092 METRIC Round 15, collaborator 2 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:37:11,900 METRIC Round 15, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.640000 collaborator.py:415
+2022-05-24 07:37:11,905 METRIC Round 15, collaborator 3 aggregated_model_validation result accuracy:	0.640000 aggregator.py:523
+2022-05-24 07:38:54,167 METRIC Round 15, collaborator 3 is sending metric for task train: loss	0.209141 collaborator.py:415
+2022-05-24 07:38:54,173 METRIC Round 15, collaborator 3 train result loss:	0.209141 aggregator.py:523
+2022-05-24 07:38:58,247 METRIC Round 15, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 07:38:58,251 METRIC Round 15, collaborator 3 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 07:39:04,556 METRIC Round 15, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:39:04,561 METRIC Round 15, collaborator 4 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:40:46,031 METRIC Round 15, collaborator 4 is sending metric for task train: loss	0.202614 collaborator.py:415
+2022-05-24 07:40:46,036 METRIC Round 15, collaborator 4 train result loss:	0.202614 aggregator.py:523
+2022-05-24 07:40:50,096 METRIC Round 15, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 07:40:50,100 METRIC Round 15, collaborator 4 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 07:40:56,328 METRIC Round 15, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.760000 collaborator.py:415
+2022-05-24 07:40:56,332 METRIC Round 15, collaborator 5 aggregated_model_validation result accuracy:	0.760000 aggregator.py:523
+2022-05-24 07:42:37,956 METRIC Round 15, collaborator 5 is sending metric for task train: loss	0.203568 collaborator.py:415
+2022-05-24 07:42:37,962 METRIC Round 15, collaborator 5 train result loss:	0.203568 aggregator.py:523
+2022-05-24 07:42:42,719 METRIC Round 15, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:42:42,724 METRIC Round 15, collaborator 5 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:42:48,906 METRIC Round 15, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 07:42:48,911 METRIC Round 15, collaborator 6 aggregated_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 07:44:28,545 METRIC Round 15, collaborator 6 is sending metric for task train: loss	0.208989 collaborator.py:415
+2022-05-24 07:44:28,550 METRIC Round 15, collaborator 6 train result loss:	0.208989 aggregator.py:523
+2022-05-24 07:44:32,668 METRIC Round 15, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 07:44:32,672 METRIC Round 15, collaborator 6 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 07:44:39,016 METRIC Round 15, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 07:44:39,021 METRIC Round 15, collaborator 7 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 07:46:20,205 METRIC Round 15, collaborator 7 is sending metric for task train: loss	0.211447 collaborator.py:415
+2022-05-24 07:46:20,210 METRIC Round 15, collaborator 7 train result loss:	0.211447 aggregator.py:523
+2022-05-24 07:46:24,423 METRIC Round 15, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.900000 collaborator.py:415
+2022-05-24 07:46:24,428 METRIC Round 15, collaborator 7 locally_tuned_model_validation result accuracy:	0.900000 aggregator.py:523
+2022-05-24 07:46:24,475 METRIC Round 15, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.757500 aggregator.py:805
+2022-05-24 07:46:24,522 METRIC Round 15, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.755000 aggregator.py:805
+2022-05-24 07:46:24,575 METRIC Round 15, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.203338 aggregator.py:805
+2022-05-24 07:46:52,127 METRIC Round 16, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 07:46:52,131 METRIC Round 16, collaborator 0 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 07:48:32,479 METRIC Round 16, collaborator 0 is sending metric for task train: loss	0.191574 collaborator.py:415
+2022-05-24 07:48:32,484 METRIC Round 16, collaborator 0 train result loss:	0.191574 aggregator.py:523
+2022-05-24 07:48:36,678 METRIC Round 16, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 07:48:36,682 METRIC Round 16, collaborator 0 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 07:48:42,777 METRIC Round 16, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 07:48:42,781 METRIC Round 16, collaborator 1 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 07:50:21,996 METRIC Round 16, collaborator 1 is sending metric for task train: loss	0.195450 collaborator.py:415
+2022-05-24 07:50:22,001 METRIC Round 16, collaborator 1 train result loss:	0.195450 aggregator.py:523
+2022-05-24 07:50:26,219 METRIC Round 16, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 07:50:26,224 METRIC Round 16, collaborator 1 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 07:50:32,690 METRIC Round 16, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:50:32,695 METRIC Round 16, collaborator 2 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:52:11,282 METRIC Round 16, collaborator 2 is sending metric for task train: loss	0.190454 collaborator.py:415
+2022-05-24 07:52:11,287 METRIC Round 16, collaborator 2 train result loss:	0.190454 aggregator.py:523
+2022-05-24 07:52:16,099 METRIC Round 16, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:52:16,104 METRIC Round 16, collaborator 2 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:52:22,437 METRIC Round 16, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 07:52:22,442 METRIC Round 16, collaborator 3 aggregated_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 07:54:01,192 METRIC Round 16, collaborator 3 is sending metric for task train: loss	0.198998 collaborator.py:415
+2022-05-24 07:54:01,197 METRIC Round 16, collaborator 3 train result loss:	0.198998 aggregator.py:523
+2022-05-24 07:54:05,653 METRIC Round 16, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 07:54:05,658 METRIC Round 16, collaborator 3 locally_tuned_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 07:54:12,542 METRIC Round 16, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 07:54:12,547 METRIC Round 16, collaborator 4 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 07:55:50,328 METRIC Round 16, collaborator 4 is sending metric for task train: loss	0.200732 collaborator.py:415
+2022-05-24 07:55:50,333 METRIC Round 16, collaborator 4 train result loss:	0.200732 aggregator.py:523
+2022-05-24 07:55:54,789 METRIC Round 16, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 07:55:54,794 METRIC Round 16, collaborator 4 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 07:56:01,773 METRIC Round 16, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:56:01,778 METRIC Round 16, collaborator 5 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:57:42,703 METRIC Round 16, collaborator 5 is sending metric for task train: loss	0.207612 collaborator.py:415
+2022-05-24 07:57:42,708 METRIC Round 16, collaborator 5 train result loss:	0.207612 aggregator.py:523
+2022-05-24 07:57:46,980 METRIC Round 16, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 07:57:46,985 METRIC Round 16, collaborator 5 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 07:57:54,006 METRIC Round 16, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 07:57:54,011 METRIC Round 16, collaborator 6 aggregated_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 07:59:34,116 METRIC Round 16, collaborator 6 is sending metric for task train: loss	0.205570 collaborator.py:415
+2022-05-24 07:59:34,122 METRIC Round 16, collaborator 6 train result loss:	0.205570 aggregator.py:523
+2022-05-24 07:59:38,670 METRIC Round 16, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 07:59:38,675 METRIC Round 16, collaborator 6 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 07:59:46,034 METRIC Round 16, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 07:59:46,039 METRIC Round 16, collaborator 7 aggregated_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 08:01:26,390 METRIC Round 16, collaborator 7 is sending metric for task train: loss	0.197598 collaborator.py:415
+2022-05-24 08:01:26,396 METRIC Round 16, collaborator 7 train result loss:	0.197598 aggregator.py:523
+2022-05-24 08:01:31,017 METRIC Round 16, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.720000 collaborator.py:415
+2022-05-24 08:01:31,022 METRIC Round 16, collaborator 7 locally_tuned_model_validation result accuracy:	0.720000 aggregator.py:523
+2022-05-24 08:01:31,075 METRIC Round 16, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.750000 aggregator.py:805
+2022-05-24 08:01:31,131 METRIC Round 16, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.780000 aggregator.py:805
+2022-05-24 08:01:31,184 METRIC Round 16, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.198498 aggregator.py:805
+2022-05-24 08:01:58,914 METRIC Round 17, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 08:01:58,919 METRIC Round 17, collaborator 0 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 08:03:41,986 METRIC Round 17, collaborator 0 is sending metric for task train: loss	0.183381 collaborator.py:415
+2022-05-24 08:03:41,991 METRIC Round 17, collaborator 0 train result loss:	0.183381 aggregator.py:523
+2022-05-24 08:03:46,419 METRIC Round 17, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 08:03:46,424 METRIC Round 17, collaborator 0 locally_tuned_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 08:03:52,917 METRIC Round 17, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.880000 collaborator.py:415
+2022-05-24 08:03:52,922 METRIC Round 17, collaborator 1 aggregated_model_validation result accuracy:	0.880000 aggregator.py:523
+2022-05-24 08:05:35,083 METRIC Round 17, collaborator 1 is sending metric for task train: loss	0.185467 collaborator.py:415
+2022-05-24 08:05:35,088 METRIC Round 17, collaborator 1 train result loss:	0.185467 aggregator.py:523
+2022-05-24 08:05:39,901 METRIC Round 17, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 08:05:39,906 METRIC Round 17, collaborator 1 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 08:05:46,737 METRIC Round 17, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 08:05:46,741 METRIC Round 17, collaborator 2 aggregated_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 08:07:28,242 METRIC Round 17, collaborator 2 is sending metric for task train: loss	0.175497 collaborator.py:415
+2022-05-24 08:07:28,247 METRIC Round 17, collaborator 2 train result loss:	0.175497 aggregator.py:523
+2022-05-24 08:07:33,028 METRIC Round 17, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 08:07:33,032 METRIC Round 17, collaborator 2 locally_tuned_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 08:07:40,536 METRIC Round 17, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.660000 collaborator.py:415
+2022-05-24 08:07:40,541 METRIC Round 17, collaborator 3 aggregated_model_validation result accuracy:	0.660000 aggregator.py:523
+2022-05-24 08:09:21,875 METRIC Round 17, collaborator 3 is sending metric for task train: loss	0.201534 collaborator.py:415
+2022-05-24 08:09:21,880 METRIC Round 17, collaborator 3 train result loss:	0.201534 aggregator.py:523
+2022-05-24 08:09:26,544 METRIC Round 17, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 08:09:26,549 METRIC Round 17, collaborator 3 locally_tuned_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 08:09:33,686 METRIC Round 17, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 08:09:33,691 METRIC Round 17, collaborator 4 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 08:11:15,227 METRIC Round 17, collaborator 4 is sending metric for task train: loss	0.203001 collaborator.py:415
+2022-05-24 08:11:15,232 METRIC Round 17, collaborator 4 train result loss:	0.203001 aggregator.py:523
+2022-05-24 08:11:19,790 METRIC Round 17, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 08:11:19,795 METRIC Round 17, collaborator 4 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 08:11:26,828 METRIC Round 17, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 08:11:26,834 METRIC Round 17, collaborator 5 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 08:13:08,721 METRIC Round 17, collaborator 5 is sending metric for task train: loss	0.208264 collaborator.py:415
+2022-05-24 08:13:08,727 METRIC Round 17, collaborator 5 train result loss:	0.208264 aggregator.py:523
+2022-05-24 08:13:13,090 METRIC Round 17, collaborator 5 is sending metric for task locally_tuned_model_validation: accuracy	0.820000 collaborator.py:415
+2022-05-24 08:13:13,095 METRIC Round 17, collaborator 5 locally_tuned_model_validation result accuracy:	0.820000 aggregator.py:523
+2022-05-24 08:13:20,001 METRIC Round 17, collaborator 6 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 08:13:20,007 METRIC Round 17, collaborator 6 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 08:15:00,696 METRIC Round 17, collaborator 6 is sending metric for task train: loss	0.191865 collaborator.py:415
+2022-05-24 08:15:00,702 METRIC Round 17, collaborator 6 train result loss:	0.191865 aggregator.py:523
+2022-05-24 08:15:05,480 METRIC Round 17, collaborator 6 is sending metric for task locally_tuned_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 08:15:05,486 METRIC Round 17, collaborator 6 locally_tuned_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 08:15:12,848 METRIC Round 17, collaborator 7 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 08:15:12,853 METRIC Round 17, collaborator 7 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 08:16:53,800 METRIC Round 17, collaborator 7 is sending metric for task train: loss	0.200531 collaborator.py:415
+2022-05-24 08:16:53,808 METRIC Round 17, collaborator 7 train result loss:	0.200531 aggregator.py:523
+2022-05-24 08:16:58,494 METRIC Round 17, collaborator 7 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 08:16:58,500 METRIC Round 17, collaborator 7 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 08:16:58,562 METRIC Round 17, aggregator: locally_tuned_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.765000 aggregator.py:805
+2022-05-24 08:16:58,624 METRIC Round 17, aggregator: aggregated_model_validation <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> accuracy:	0.772500 aggregator.py:805
+2022-05-24 08:16:58,685 METRIC Round 17, aggregator: train <openfl.component.aggregation_functions.weighted_average.WeightedAverage object at 0x7f6673291f70> loss:	0.193692 aggregator.py:805
+2022-05-24 08:17:27,224 METRIC Round 18, collaborator 0 is sending metric for task aggregated_model_validation: accuracy	0.880000 collaborator.py:415
+2022-05-24 08:17:27,235 METRIC Round 18, collaborator 0 aggregated_model_validation result accuracy:	0.880000 aggregator.py:523
+2022-05-24 08:19:09,681 METRIC Round 18, collaborator 0 is sending metric for task train: loss	0.188613 collaborator.py:415
+2022-05-24 08:19:09,696 METRIC Round 18, collaborator 0 train result loss:	0.188613 aggregator.py:523
+2022-05-24 08:19:14,681 METRIC Round 18, collaborator 0 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 08:19:14,685 METRIC Round 18, collaborator 0 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 08:19:21,275 METRIC Round 18, collaborator 1 is sending metric for task aggregated_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 08:19:21,280 METRIC Round 18, collaborator 1 aggregated_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 08:21:02,090 METRIC Round 18, collaborator 1 is sending metric for task train: loss	0.194675 collaborator.py:415
+2022-05-24 08:21:02,099 METRIC Round 18, collaborator 1 train result loss:	0.194675 aggregator.py:523
+2022-05-24 08:21:07,471 METRIC Round 18, collaborator 1 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 08:21:07,476 METRIC Round 18, collaborator 1 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 08:21:14,397 METRIC Round 18, collaborator 2 is sending metric for task aggregated_model_validation: accuracy	0.840000 collaborator.py:415
+2022-05-24 08:21:14,402 METRIC Round 18, collaborator 2 aggregated_model_validation result accuracy:	0.840000 aggregator.py:523
+2022-05-24 08:22:56,478 METRIC Round 18, collaborator 2 is sending metric for task train: loss	0.186060 collaborator.py:415
+2022-05-24 08:22:56,487 METRIC Round 18, collaborator 2 train result loss:	0.186060 aggregator.py:523
+2022-05-24 08:23:01,279 METRIC Round 18, collaborator 2 is sending metric for task locally_tuned_model_validation: accuracy	0.800000 collaborator.py:415
+2022-05-24 08:23:01,284 METRIC Round 18, collaborator 2 locally_tuned_model_validation result accuracy:	0.800000 aggregator.py:523
+2022-05-24 08:23:08,712 METRIC Round 18, collaborator 3 is sending metric for task aggregated_model_validation: accuracy	0.680000 collaborator.py:415
+2022-05-24 08:23:08,716 METRIC Round 18, collaborator 3 aggregated_model_validation result accuracy:	0.680000 aggregator.py:523
+2022-05-24 08:24:49,557 METRIC Round 18, collaborator 3 is sending metric for task train: loss	0.190637 collaborator.py:415
+2022-05-24 08:24:49,567 METRIC Round 18, collaborator 3 train result loss:	0.190637 aggregator.py:523
+2022-05-24 08:24:54,521 METRIC Round 18, collaborator 3 is sending metric for task locally_tuned_model_validation: accuracy	0.860000 collaborator.py:415
+2022-05-24 08:24:54,526 METRIC Round 18, collaborator 3 locally_tuned_model_validation result accuracy:	0.860000 aggregator.py:523
+2022-05-24 08:25:02,374 METRIC Round 18, collaborator 4 is sending metric for task aggregated_model_validation: accuracy	0.740000 collaborator.py:415
+2022-05-24 08:25:02,380 METRIC Round 18, collaborator 4 aggregated_model_validation result accuracy:	0.740000 aggregator.py:523
+2022-05-24 08:26:44,854 METRIC Round 18, collaborator 4 is sending metric for task train: loss	0.196310 collaborator.py:415
+2022-05-24 08:26:44,861 METRIC Round 18, collaborator 4 train result loss:	0.196310 aggregator.py:523
+2022-05-24 08:26:49,978 METRIC Round 18, collaborator 4 is sending metric for task locally_tuned_model_validation: accuracy	0.700000 collaborator.py:415
+2022-05-24 08:26:49,983 METRIC Round 18, collaborator 4 locally_tuned_model_validation result accuracy:	0.700000 aggregator.py:523
+2022-05-24 08:26:57,324 METRIC Round 18, collaborator 5 is sending metric for task aggregated_model_validation: accuracy	0.780000 collaborator.py:415
+2022-05-24 08:26:57,330 METRIC Round 18, collaborator 5 aggregated_model_validation result accuracy:	0.780000 aggregator.py:523
+2022-05-24 08:28:41,222 METRIC Round 18, collaborator 5 is sending metric for task train: loss	0.192728 collaborator.py:415
+2022-05-24 08:28:41,231 METRIC Round 18, collaborator 5 train result loss:	0.192728 aggregator.py:523
