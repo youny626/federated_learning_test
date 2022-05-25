@@ -1,6 +1,7 @@
 import os
 
 import openfl.native as fx
+import sklearn
 from openfl.federated import FederatedModel, FederatedDataSet
 
 import pandas as pd
@@ -10,7 +11,7 @@ import torch.nn.functional as F
 from sklearn.model_selection import train_test_split
 
 log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income.log"
-# log_file = "~/.local/workspace/logs/income.log"
+# log_file = "/Users/zhiruzhu/.local/workspace/logs/income.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
@@ -49,8 +50,12 @@ y = train["income_>50K"]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
 
+scaler=sklearn.preprocessing.StandardScaler()
 X_train = X_train.to_numpy(dtype=np.float32)
+X_train = scaler.fit_transform(X_train)
 X_test = X_test.to_numpy(dtype=np.float32)
+X_test = scaler.fit_transform(X_test)
+
 y_train = y_train.to_numpy(dtype=int)
 y_test = y_test.to_numpy(dtype=int)
 
@@ -58,7 +63,7 @@ y_test = y_test.to_numpy(dtype=int)
 def one_hot(labels, classes):
     return np.eye(classes)[labels].astype(int)
 
-
+# X_test = one_hot(X_test, 2)
 y_test = one_hot(y_test, 2)
 
 batch_size = 32
@@ -67,6 +72,7 @@ num_classes = 2
 fl_data = FederatedDataSet(X_train, y_train, X_test, y_test, batch_size=batch_size)  # , num_classes=num_classes)
 
 input_dim = int(X_train.shape[1])
+# print(input_dim)
 output_dim = 1
 
 
@@ -130,7 +136,7 @@ for i, model in enumerate(collaborator_models):
 # Run experiment, return trained FederatedModel
 final_fl_model = fx.run_experiment(collaborators,
                                    override_config={
-        'aggregator.settings.rounds_to_train': 10000,
+        'aggregator.settings.rounds_to_train': 300,
         # 'aggregator.settings.log_metric_callback': write_metric_x,
         # "aggregator.settings.write_logs": True,
     }
