@@ -10,15 +10,15 @@ import torch
 import torch.nn.functional as F
 from sklearn.model_selection import train_test_split
 
-log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income.log"
-# log_file = "/Users/zhiruzhu/.local/workspace/logs/income.log"
+# log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income.log"
+log_file = "/Users/zhiruzhu/.local/workspace/logs/income.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
 fx.init('torch_cnn_mnist', log_level='METRIC', log_file='./logs/income.log')
 
-# train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
-train = pd.read_csv("/home/zhiru_uchicago_edu/federated_learning_test/income/train.csv")
+train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
+# train = pd.read_csv("/home/zhiru_uchicago_edu/federated_learning_test/income/train.csv")
 
 # test = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/test.csv")
 
@@ -59,17 +59,29 @@ X_test = scaler.fit_transform(X_test)
 y_train = y_train.to_numpy(dtype=int)
 y_test = y_test.to_numpy(dtype=int)
 
-
 def one_hot(labels, classes):
     return np.eye(classes)[labels].astype(int)
 
-# X_test = one_hot(X_test, 2)
+# y_train = one_hot(y_train, 2)
 y_test = one_hot(y_test, 2)
 
-batch_size = 32
+# X_train=torch.from_numpy(X_train.astype(np.float32))
+# X_test=torch.from_numpy(X_test.astype(np.float32))
+# y_train=torch.from_numpy(y_train.astype(int))
+# y_test=torch.from_numpy(y_test.astype(int))
+
+# y_train=y_train.view(y_train.shape[0],1)
+# y_test=y_test.view(y_test.shape[0],1)
+#
+# print(y_train)
+# print(y_test)
+
+# batch_size = 32
 num_classes = 2
 
-fl_data = FederatedDataSet(X_train, y_train, X_test, y_test, batch_size=batch_size)  # , num_classes=num_classes)
+# print(X_train.shape[0])
+
+fl_data = FederatedDataSet(X_train, y_train, X_test, y_test, batch_size=X_train.shape[0], num_classes=num_classes)
 
 input_dim = int(X_train.shape[1])
 # print(input_dim)
@@ -81,8 +93,12 @@ class LogisticRegression(torch.nn.Module):
     def __init__(self):
         super(LogisticRegression, self).__init__()
         self.linear = torch.nn.Linear(input_dim, output_dim)  # .float()
+        # self.layer1 = torch.nn.Linear(input_dim, 20)
+        # self.layer2 = torch.nn.Linear(20, output_dim)
 
     def forward(self, x):
+        # outputs = self.layer1(x)
+        # outputs = torch.sigmoid(self.layer2(outputs))
         outputs = torch.sigmoid(self.linear(x))  # .float()
         return outputs
 
@@ -136,7 +152,7 @@ for i, model in enumerate(collaborator_models):
 # Run experiment, return trained FederatedModel
 final_fl_model = fx.run_experiment(collaborators,
                                    override_config={
-        'aggregator.settings.rounds_to_train': 300,
+        'aggregator.settings.rounds_to_train': 10,
         # 'aggregator.settings.log_metric_callback': write_metric_x,
         # "aggregator.settings.write_logs": True,
     }
