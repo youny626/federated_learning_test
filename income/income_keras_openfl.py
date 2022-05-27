@@ -99,7 +99,7 @@ def build_model(feature_shape, classes):
     model = keras.Sequential([
         keras.layers.Dense(1, input_shape=feature_shape, activation='sigmoid')
     ])
-    model.compile(optimizer='sgd',
+    model.compile(optimizer=keras.optimizers.Adam(learning_rate=0.01),
                   loss='binary_crossentropy',
                   metrics=['accuracy'])
 
