@@ -101,7 +101,7 @@ def build_model(feature_shape, classes):
     ])
     model.compile(optimizer='sgd',
                   loss='binary_crossentropy',
-                  metrics=['binary_accuracy'])
+                  metrics=['accuracy'])
 
     return model
 
