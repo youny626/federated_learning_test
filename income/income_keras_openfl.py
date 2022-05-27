@@ -11,12 +11,12 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 import tensorflow.keras as keras
 
-log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income.log"
+log_file = "/home/zhiru_uchicago_edu/.local/workspace/logs/income_keras_adam.log"
 # log_file = "/Users/zhiruzhu/.local/workspace/logs/income.log"
 if os.path.exists(log_file):
     os.remove(log_file)
 
-fx.init('keras_cnn_mnist', log_level='METRIC', log_file='./logs/income.log')
+fx.init('keras_cnn_mnist', log_level='METRIC', log_file='./logs/income_keras_adam.log')
 
 # train = pd.read_csv("/Users/zhiruzhu/Desktop/data_station/fl_test/income/train.csv")
 train = pd.read_csv("/home/zhiru_uchicago_edu/federated_learning_test/income/train.csv")
@@ -99,7 +99,7 @@ def build_model(feature_shape, classes):
     model = keras.Sequential([
         keras.layers.Dense(1, input_shape=feature_shape, activation='sigmoid')
     ])
-    model.compile(optimizer=keras.optimizers.SGD(learning_rate=0.01),
+    model.compile(optimizer=keras.optimizers.Adam(learning_rate=0.01),
                   loss='binary_crossentropy',
                   metrics=['accuracy'])
 
@@ -138,7 +138,7 @@ for i, model in enumerate(collaborator_models):
 # Run experiment, return trained FederatedModel
 final_fl_model = fx.run_experiment(collaborators,
                                    override_config={
-        'aggregator.settings.rounds_to_train': 300,
+        'aggregator.settings.rounds_to_train': 100,
         # 'aggregator.settings.log_metric_callback': write_metric_x,
         # "aggregator.settings.write_logs": True,
     }
