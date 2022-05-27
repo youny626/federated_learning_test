@@ -52,7 +52,7 @@ y_train = y_train.to_numpy(dtype=int)
 y_test = y_test.to_numpy(dtype=int)
 
 model = keras.Sequential([
-    keras.layers.Dense(1, input_shape=X_train.shape, activation='sigmoid')
+    keras.layers.Dense(1, input_dim=X_train.shape[1], activation='sigmoid')
 ])
 model.compile(optimizer=keras.optimizers.Adam(learning_rate=0.01),
               loss='binary_crossentropy',
