@@ -68,7 +68,7 @@ class EvaluateEpochEnd(tf.keras.callbacks.Callback):
         scores = self.model.evaluate(x=self.X_test, y=self.y_test, verbose=0)
         print('\nTesting loss: {}, accuracy: {}\n'.format(scores[0], scores[1]))
         cur_epoch_time = time.time()
-        with open("ml_acc.csv", 'a+') as f:
+        with open("income_keras.csv", 'a+') as f:
             writer_object = writer(f)
             writer_object.writerow([scores[0], scores[1], cur_epoch_time-prev_epoch_time])
         prev_epoch_time = cur_epoch_time
