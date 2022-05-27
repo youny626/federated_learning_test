@@ -77,6 +77,8 @@ callbacks = [
     EvaluateEpochEnd(X_test, y_test)
 ]
 
+prev_epoch_time = time.time()
+
 model.fit(
     x=X_train,
     y=y_train,
