@@ -70,12 +70,16 @@ class EvaluateEpochEnd(tf.keras.callbacks.Callback):
         cur_epoch_time = time.time()
         with open("income_keras_base.csv", 'a+') as f:
             writer_object = writer(f)
-            writer_object.writerow([scores[0], scores[1], cur_epoch_time-time_offset])
+            writer_object.writerow([cur_epoch_time-time_offset, scores[1]])
         # prev_epoch_time = cur_epoch_time
 
 callbacks = [
     EvaluateEpochEnd(X_test, y_test)
 ]
+
+with open("income_keras_base.csv", 'a+') as f:
+    writer_object = writer(f)
+    writer_object.writerow(["time(s)", "accuracy"])
 
 time_offset = time.time()
 
