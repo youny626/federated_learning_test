@@ -104,7 +104,7 @@ model = LogisticRegression()
 optimizer = optimizer(model.parameters())
 # optimizer=torch.optim.SGD(model.parameters(),lr=0.01)
 
-number_of_epochs=10
+number_of_epochs=100
 losses = []
 losses_test = []
 
