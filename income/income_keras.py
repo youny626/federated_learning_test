@@ -64,20 +64,20 @@ class EvaluateEpochEnd(tf.keras.callbacks.Callback):
         self.y_test = y_test
 
     def on_epoch_end(self, epoch, logs={}):
-        global prev_epoch_time
+        global time_offset
         scores = self.model.evaluate(x=self.X_test, y=self.y_test, verbose=0)
         print('\nTesting loss: {}, accuracy: {}\n'.format(scores[0], scores[1]))
         cur_epoch_time = time.time()
         with open("income_keras_base.csv", 'a+') as f:
             writer_object = writer(f)
-            writer_object.writerow([scores[0], scores[1], cur_epoch_time-prev_epoch_time])
-        prev_epoch_time = cur_epoch_time
+            writer_object.writerow([scores[0], scores[1], cur_epoch_time-time_offset])
+        # prev_epoch_time = cur_epoch_time
 
 callbacks = [
     EvaluateEpochEnd(X_test, y_test)
 ]
 
-prev_epoch_time = time.time()
+time_offset = time.time()
 
 model.fit(
     x=X_train,
