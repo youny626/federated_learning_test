@@ -82,7 +82,7 @@ prev_epoch_time = time.time()
 model.fit(
     x=X_train,
     y=y_train,
-    epochs=100,
+    epochs=300,
     batch_size=X_train.shape[0],
     # validation_data=(X_test, y_test),
     callbacks=[callbacks]
