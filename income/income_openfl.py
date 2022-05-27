@@ -104,7 +104,7 @@ class LogisticRegression(torch.nn.Module):
 
 
 learning_rate = 0.01
-optimizer = lambda x: torch.optim.SGD(x, lr=learning_rate)
+optimizer = lambda x: torch.optim.Adam(x, lr=learning_rate)
 
 
 def cross_entropy(output, target):
