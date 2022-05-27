@@ -64,7 +64,7 @@ def one_hot(labels, classes):
     return np.eye(classes)[labels].astype(int)
 
 # y_train = one_hot(y_train, 2)
-y_test = one_hot(y_test, 2)
+# y_test = one_hot(y_test, 2)
 
 # X_train=torch.from_numpy(X_train.astype(np.float32))
 # X_test=torch.from_numpy(X_test.astype(np.float32))
