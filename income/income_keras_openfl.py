@@ -96,9 +96,9 @@ def build_model(feature_shape, classes):
 
     # model = tf.keras.Sequential()
     # model.add(tf.keras.Dense(number_of_classes, activation='sigmoid', input_dim=number_of_features))
-    model = keras.Sequential({
+    model = keras.Sequential([
         keras.layers.Dense(1, input_shape=feature_shape, activation='sigmoid')
-    })
+    ])
     model.compile(optimizer='sgd',
                   loss='binary_crossentropy',
                   metrics=['binary_accuracy'])
