@@ -86,5 +86,4 @@ model.fit(
     callbacks=[callbacks]
 )
 
-model.load_weights('./covid_classifier_model.h5')
-model.evaluate(x=X_test, y=y_test, batch_size=X_test.shape[0])
+model.evaluate(x=X_test, y=y_test)
