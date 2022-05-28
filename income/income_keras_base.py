@@ -37,6 +37,9 @@ def preprocess(data):
 train = preprocess(train)
 # test = preprocess(test)
 
+train = pd.concat([train]*10)
+train.reset_index()
+
 X = train.drop("income_>50K", axis=1)
 y = train["income_>50K"]
 
